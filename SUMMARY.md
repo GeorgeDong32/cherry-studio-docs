@@ -16,6 +16,7 @@
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
+* [个性化设置](advanced-basic/personalization.md)
 * [知识库教程](advanced-basic/knowledge-base.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
