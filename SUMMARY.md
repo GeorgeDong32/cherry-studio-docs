@@ -4,7 +4,8 @@
 
 * [项目简介](README.md)
 * [项目规划](cherrystudio/planning.md)
-* [功能一览](cherrystudio/preview.md)
+* [功能一览](cherrystudio/preview/README.md)
+  * [对话界面](cherrystudio/preview/chat.md)
 
 ## 基础教程 <a href="#pre-basic" id="pre-basic"></a>
 
@@ -29,4 +30,5 @@
 ## 问题&反馈 <a href="#question-contact" id="question-contact"></a>
 
 * [常见问题](question-contact/questions.md)
+* [知识科普](question-contact/knowledge.md)
 * [反馈&建议](question-contact/suggestions.md)
