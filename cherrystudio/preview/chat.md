@@ -46,9 +46,9 @@ icon: message
 
 #### 提示词设置
 
-`名称`：可自定义为方便辨识的助手名称；
+<mark style="color:blue;">**`名称`**</mark>：可自定义为方便辨识的助手名称；
 
-`提示词`：即prompt，可以参照智能体页面的提示词写法来编辑内容。
+<mark style="color:blue;">**`提示词`**</mark>：即prompt，可以参照智能体页面的提示词写法来编辑内容。
 
 
 
