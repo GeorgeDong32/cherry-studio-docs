@@ -8,7 +8,7 @@ icon: message
 
 ### 助手
 
-`助手`是对所选模型做一些个性化的设置，如提示词预设和参数预设等，通过这些设置让所选模型能更加符合你预期的工作。
+<mark style="background-color:yellow;">助手</mark>是对所选模型做一些个性化的设置，如提示词预设和参数预设等，通过这些设置让所选模型能更加符合你预期的工作。
 
 <mark style="background-color:yellow;">系统默认助手</mark>的参数是预设好的一个比较通用的参数，您可以直接使用或者到助手市场（智能体界面）寻找你需要的预设来使用。
 
@@ -16,33 +16,130 @@ icon: message
 
 ### 话题
 
-`助手`是`话题`的父集，单个助手下可以创建多个话题（即对话），所有`话题`共用`助手`的参数设置和预设词（prompt）等模型设置。
+<mark style="background-color:yellow;">助手</mark>是<mark style="background-color:yellow;">话题</mark>的父集，单个助手下可以创建多个话题（即对话），所有`话题`共用`助手`的参数设置和预设词（prompt）等模型设置。
 
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 对话设置
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+
+### 模型设置
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="248"><figcaption></figcaption></figure>
+
+模型设置与助手设置当中的模型设置参数同步,详见[助手设置](chat.md#bian-ji-zhu-shou)部分文档。
+
+{% hint style="info" %}
+在对话设置当中，仅该模型设置作用于当前助手，其余设置作用于全局。如：设置消息样式为气泡后再任何助手任何话题下都是气泡样式。
+{% endhint %}
 
 
+
+### 消息设置
+
+<mark style="color:blue;">**`消息分割线`**</mark>:使用分割线将消息正文与操作栏隔开。
+
+{% tabs %}
+{% tab title="打开时" %}
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="关闭时" %}
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+<mark style="color:blue;">**`使用衬线字体`**</mark>：字体样式切换，现在你也可以通过[自定义css](../../advanced-basic/personalization/)来更换字体。
+
+
+
+<mark style="color:blue;">**`代码显示行号`**</mark>：模型输出代码片段时显示代码块行号。
+
+{% tabs %}
+{% tab title="关闭时" %}
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="打开时" %}
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+<mark style="color:blue;">**`代码块可折叠`**</mark>：打开后当输出长代码在代码片段当中时，可自动折叠代码块。
+
+
+
+<mark style="color:blue;">**`消息样式`**</mark>：可切对话界面换为气泡样式或列表样式。
+
+
+
+<mark style="color:blue;">**`代码风格`**</mark>：可切换代码片段的显示风格。
+
+
+
+<mark style="color:blue;">**`数学公式引擎`**</mark>：
+
+* KaTeX 渲染速度更快，因为它是专门为性能优化设计的；
+* MathJax 渲染较慢，但功能更全面，支持更多的数学符号和命令。
+
+
+
+<mark style="color:blue;">**`消息字体大小`**</mark>：调整对话界面字体的大小。
+
+
+
+### 输入设置
+
+<mark style="color:blue;">**`显示预估Token数`**</mark>：在输入框显示输入文本预估消耗的Token数（非实际上下文消耗的Token，仅供参考）。
+
+
+
+<mark style="color:blue;">**`长文本粘贴为文件`**</mark>：当从其他地方复制长段文本粘贴到输入框时会自动显示为文件的样式，减少后续输入内容时的干扰。
+
+
+
+<mark style="color:blue;">**`Markdown渲染输入消息`**</mark>：关闭时只渲染模型回复的消息，不渲染发送的消息。
+
+{% tabs %}
+{% tab title="关闭时" %}
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="打开时" %}
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
+<mark style="color:blue;">**`快速敲击3次空格翻译`**</mark>：在对话界面输入框输入消息后，连敲三次空格可翻译输入的内容为英文。的
+
+{% hint style="info" %}
+注意：该操作会覆盖原文。
+{% endhint %}
 
 ***
 
 ## 助手设置
 
-在助手界面选择需要设置的助手名称→在右键菜单中选对应设置
+在助手界面选择需要设置的<mark style="background-color:yellow;">助手名称</mark>→在<mark style="background-color:yellow;">右键菜单中</mark>选对应设置
 
-### **编辑助手**
+### 编辑助手
 
 {% hint style="info" %}
 助手设置作用于该助手下的所有话题。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 提示词设置
 
@@ -110,7 +207,7 @@ icon: message
 
 
 
-{% hint style="info" %}
+{% hint style="success" %}
 建议：
 
 * 普通聊天：500-800
@@ -120,7 +217,7 @@ icon: message
 {% endhint %}
 
 {% hint style="warning" %}
-一般情况下模型生成的回答将被限制在MaxToken的范围内，当然也有可能会出现被截断（如写长代码等）或表达不完整等情况出现，特殊情况下也需要根据使用环境来灵活调整。
+一般情况下模型生成的回答将被限制在MaxToken的范围内，当然也有可能会出现被截断（如写长代码时）或表达不完整等情况出现，特殊情况下也需要根据实际情况来灵活调整。
 {% endhint %}
 
 
