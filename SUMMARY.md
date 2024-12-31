@@ -28,6 +28,9 @@
   * [MacOS](pre-basic/installation/macos.md)
 * [服务商配置](pre-basic/providers/README.md)
   * [硅基流动](pre-basic/providers/siliconcloud.md)
+  * [OpenAI](pre-basic/providers/openai.md)
+  * [OneAPI及其分支项目](pre-basic/providers/oneapi/README.md)
+    * [NewAPI](pre-basic/providers/oneapi/newapi.md)
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 

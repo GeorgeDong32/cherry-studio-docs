@@ -1,6 +1,6 @@
 ---
-description: 🍒 Cherry Studio 是一个支持多模型服务的桌面客户端，为专业用户而打造，内置 30 多个行业的智能助手，帮助用户在多种场景下提升工作效率。
 icon: cherries
+description: 🍒 Cherry Studio 是一个支持多模型服务的桌面客户端，为专业用户而打造，内置 30 多个行业的智能助手，帮助用户在多种场景下提升工作效率。
 ---
 
 # 项目简介
@@ -9,25 +9,11 @@ icon: cherries
 
 #### 各种模型服务聚合
 
-Cherry Studio 内置了很多服务商，集成了超过 300 多个大语言模型。在使用过程中，你可以随意切换模型来回答问题，充分利用各个大模型的优势解决问题。目前，已经集成的服务商如下：
+Cherry Studio 内置了很多服务商，集成了超过 300 多个大语言模型。在使用过程中，你可以随意切换模型来回答问题，充分利用各个大模型的优势解决问题。目前，已经集成的服务商见[服务商配置](pre-basic/providers/)：
 
 <figure><img src=".gitbook/assets/2024-07-30-17-21-14.webp" alt=""><figcaption></figcaption></figure>
 
-| 服务商名字      | 官方网站                                                                   | 文档                                                                                                   |
-| ---------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| OpenAI     | [https://openai.com/](https://openai.com/)                             | [https://platform.openai.com/docs](https://platform.openai.com/docs)                                 |
-| Silicon    | [https://www.siliconflow.cn/](https://www.siliconflow.cn/)             | [https://docs.siliconflow.cn/](https://docs.siliconflow.cn/)                                         |
-| DeepSeek   | [https://deepseek.com/](https://deepseek.com/)                         | [https://platform.deepseek.com/api-docs/](https://platform.deepseek.com/api-docs/)                   |
-| Yi         | [https://platform.lingyiwanwu.com/](https://platform.lingyiwanwu.com/) | [https://platform.lingyiwanwu.com/docs](https://platform.lingyiwanwu.com/docs)                       |
-| Zhipu      | [https://open.bigmodel.cn/](https://open.bigmodel.cn/)                 | [https://open.bigmodel.cn/dev/howuse/introduction](https://open.bigmodel.cn/dev/howuse/introduction) |
-| Moonshot   | [https://moonshot.ai/](https://moonshot.ai/)                           | [https://platform.moonshot.cn/docs/](https://platform.moonshot.cn/docs/)                             |
-| Baichuan   | [https://www.baichuan-ai.com/](https://www.baichuan-ai.com/)           | [https://platform.baichuan-ai.com/docs](https://platform.baichuan-ai.com/docs)                       |
-| Dashscope  | [https://dashscope.aliyun.com/](https://dashscope.aliyun.com/)         | [https://help.aliyun.com/zh/dashscope/](https://help.aliyun.com/zh/dashscope/)                       |
-| OpenRouter | [https://openrouter.ai/](https://openrouter.ai/)                       | [https://openrouter.ai/docs/quick-start](https://openrouter.ai/docs/quick-start)                     |
-| Groq       | [https://groq.com/](https://groq.com/)                                 | [https://console.groq.com/docs/quickstart](https://console.groq.com/docs/quickstart)                 |
-| Ollama     | [https://ollama.com/](https://ollama.com/)                             | [https://github.com/ollama/ollama/tree/main/docs](https://github.com/ollama/ollama/tree/main/docs)   |
-| Anthropic  | [https://anthropic.com/](https://anthropic.com/)                       | [https://docs.anthropic.com/en/docs](https://docs.anthropic.com/en/docs)                             |
-| AIHubMix   | [https://aihubmix.com/](https://aihubmix.com/)                         | [https://doc.aihubmix.com/](https://doc.aihubmix.com/)                                               |
+
 
 #### 跨平台兼容，为您带来无缝体验
 

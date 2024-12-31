@@ -24,17 +24,25 @@ icon: message
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### 设置界面
+### 对话设置
 
-#### 助手设置
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+
+
+***
+
+### 助手设置
 
 在助手界面选择需要设置的助手名称→在右键菜单中选对应设置
 
-**编辑助手**
+#### **编辑助手**
 
 {% hint style="info" %}
 助手设置作用于该助手下的所有话题。
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **提示词设置**
 
@@ -44,7 +52,7 @@ icon: message
 
 
 
-**模型设置**
+* **模型设置**
 
 `默认模型`：可以为该助手固定一个默认模型，从智能体页面添加时或复制助手时初始模型为该模型。不设置该项初始模型则为全局初始模型(即[默认助手模型](settings/default-models.md))。
 
@@ -60,7 +68,7 @@ icon: message
 >
 > 如果未开启自动重置：新建话题2时，话题2默认选择的模型为gpt-4o。
 
-**温度 (Temperature)**&#x20;
+* **温度 (Temperature)**&#x20;
 
 模型生成文本的随机程度。值越大，回复内容越赋有多样性、创造性、随机性：
 
@@ -84,5 +92,49 @@ icon: message
 * \>10：需要更长记忆的复杂任务
 * > 注意：消息数越多，token 消耗越大
 
-**开启消息长度限制**
+**开启消息长度限制(MaxToken)**
 
+单次回答最大[Token](https://docs.cherry-ai.com/cherrystudio/question-contact/knowledge#shen-me-shi-tokens)数,在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。具体设置多少取决于自己的需要，当然也可以参考以下建议。
+
+> &#x20;如:在CherryStudio当中填写好key后测试模型是否连通时，只需要知道模型是否有正确返回消息而不需特定内容,这种情况下设置MaxToken为1即可。
+
+多数模型的MaxToken上限为4k Tokens，当然也有2k也有16k甚至更多的，具体需要到对应介绍页面查看。
+
+
+
+{% hint style="info" %}
+建议：
+
+* 普通聊天：500-800
+* 短文生成：800-2000
+* 代码生成：2000-3600
+* 长文生成：4000及以上 (需要模型本身支持)
+{% endhint %}
+
+
+
+{% hint style="warning" %}
+一般情况下模型生成的回答将被限制在MaxToken的范围内，当然也有可能会出现被截断（如写长代码等）或表达不完整等情况出现，特殊情况下也需要根据使用环境来灵活调整。
+{% endhint %}
+
+
+
+**流式输出（Stream）**
+
+流式输出是一种数据处理方式，它允许数据以连续的流形式进行传输和处理，而不是一次性发送所有数据。这种方式使得数据可以在生成后立即被处理和输出，极大地提高了实时性和效率。
+
+在CherryStudio客户端等类似环境下简单来说就是打字机效果，
+
+关闭后：模型生成完信息后整段一次性输出（想象一下微信收到消息的感觉）；
+
+打开时：逐字输出，可以理解为大模型每生成一个字就立马发送给你，直到全部发送完。
+
+
+
+**自定义参数**
+
+在请求体（body）中加入额外请求参数，如`presence_penalty`等字段，一般人一般情况下用不到。
+
+填法：参数名称—参数类型（文本、数字等）—值，参考文档，[点击前往](https://openai.apifox.cn/doc-3222739)
+
+> 上述top-p、maxtokens、stream等参数就是这些参数之一。
