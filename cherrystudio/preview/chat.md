@@ -30,9 +30,7 @@ icon: message
 
 ### 模型设置
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="248"><figcaption></figcaption></figure>
-
-模型设置与助手设置当中的模型设置参数同步,详见[助手设置](chat.md#bian-ji-zhu-shou)部分文档。
+模型设置与助手设置当中的`模型设置`参数同步,详见[助手设置](chat.md#bian-ji-zhu-shou)部分文档。
 
 {% hint style="info" %}
 在对话设置当中，仅该模型设置作用于当前助手，其余设置作用于全局。如：设置消息样式为气泡后再任何助手任何话题下都是气泡样式。
