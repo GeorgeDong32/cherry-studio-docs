@@ -6,6 +6,20 @@
 * [项目规划](cherrystudio/planning.md)
 * [功能一览](cherrystudio/preview/README.md)
   * [对话界面](cherrystudio/preview/chat.md)
+  * [智能体](cherrystudio/preview/agents.md)
+  * [绘画](cherrystudio/preview/drawing.md)
+  * [翻译](cherrystudio/preview/translation.md)
+  * [小程序](cherrystudio/preview/app.md)
+  * [知识库](cherrystudio/preview/knowledge-base.md)
+  * [文件](cherrystudio/preview/files.md)
+  * [设置](cherrystudio/preview/settings/README.md)
+    * [服务商设置](cherrystudio/preview/settings/providers.md)
+    * [默认模型设置](cherrystudio/preview/settings/default-models.md)
+    * [常规设置](cherrystudio/preview/settings/general.md)
+    * [显示设置](cherrystudio/preview/settings/display.md)
+    * [快捷键设置](cherrystudio/preview/settings/key-shortcut.md)
+    * [数据设置](cherrystudio/preview/settings/data.md)
+    * [关于我们](cherrystudio/preview/settings/about.md)
 
 ## 基础教程 <a href="#pre-basic" id="pre-basic"></a>
 

@@ -25,3 +25,27 @@ icon: message
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+设置界面
+
+#### 助手设置
+
+在助手界面选择需要设置的助手名称→在右键菜单中选对应设置
+
+* 编辑助手
+
+{% hint style="info" %}
+助手设置作用于该助手下的所有话题。
+{% endhint %}
+
+**提示词设置**
+
+`名称`：可自定义为方便辨识的助手名称；
+
+`提示词`：即prompt，可以参照智能体页面的提示词写法来编辑内容。
+
+
+
+**模型设置**
+
+`默认模型`：可以为该助手固定一个默认模型，从智能体页面添加时或复制助手时初始模型为该模型。不设置该项初始模型则为全局初始模型(即默认助手模型)。
