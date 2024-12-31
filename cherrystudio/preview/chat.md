@@ -24,7 +24,7 @@ icon: message
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### 对话设置
+## 对话设置
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,11 +32,11 @@ icon: message
 
 ***
 
-### 助手设置
+## 助手设置
 
 在助手界面选择需要设置的助手名称→在右键菜单中选对应设置
 
-#### **编辑助手**
+### **编辑助手**
 
 {% hint style="info" %}
 助手设置作用于该助手下的所有话题。
@@ -44,7 +44,7 @@ icon: message
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">提示词设置</mark>
+#### <mark style="color:blue;">提示词设置</mark>
 
 `名称`：可自定义为方便辨识的助手名称；
 
@@ -52,7 +52,7 @@ icon: message
 
 
 
-<mark style="color:blue;">模型设置</mark>
+#### <mark style="color:blue;">模型设置</mark>
 
 `默认模型`：可以为该助手固定一个默认模型，从智能体页面添加时或复制助手时初始模型为该模型。不设置该项初始模型则为全局初始模型(即[默认助手模型](settings/default-models.md))。
 
@@ -68,7 +68,7 @@ icon: message
 >
 > 如果未开启自动重置：新建话题2时，话题2默认选择的模型为gpt-4o。
 
-<mark style="color:blue;">温度 (Temperature)</mark>&#x20;
+#### <mark style="color:blue;">温度 (Temperature)</mark>&#x20;
 
 模型生成文本的随机程度。值越大，回复内容越赋有多样性、创造性、随机性：
 
@@ -76,7 +76,7 @@ icon: message
 * 0.7左右：日常对话推荐值
 * 1或更大值：更具创造性但可能不够连贯
 
-<mark style="color:blue;">Top P (核采样)</mark>&#x20;
+#### <mark style="color:blue;">Top P (核采样)</mark>&#x20;
 
 默认值为 1，值越小，AI 生成的内容越单调，也越容易理解；值越大，AI 回复的词汇范围越大，越多样化：
 
@@ -84,7 +84,7 @@ icon: message
 * 较大值（如 0.9）：词汇选择更丰富
 * 1：考虑所有可能的词汇选择
 
-<mark style="color:blue;">上下文数量 (Context Window)</mark>&#x20;
+#### <mark style="color:blue;">上下文数量 (Context Window)</mark>&#x20;
 
 要保留在上下文中的消息数量，数值越大，上下文越长，消耗的 token 越多：
 
@@ -92,7 +92,7 @@ icon: message
 * \>10：需要更长记忆的复杂任务
 * > 注意：消息数越多，token 消耗越大
 
-<mark style="color:blue;">开启消息长度限制(MaxToken)</mark>
+#### <mark style="color:blue;">开启消息长度限制(MaxToken)</mark>
 
 单次回答最大[Token](https://docs.cherry-ai.com/cherrystudio/question-contact/knowledge#shen-me-shi-tokens)数,在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。具体设置多少取决于自己的需要，当然也可以参考以下建议。
 
@@ -119,7 +119,7 @@ icon: message
 
 
 
-<mark style="color:blue;">流式输出（Stream）</mark>
+#### <mark style="color:blue;">流式输出（Stream）</mark>
 
 流式输出是一种数据处理方式，它允许数据以连续的流形式进行传输和处理，而不是一次性发送所有数据。这种方式使得数据可以在生成后立即被处理和输出，极大地提高了实时性和效率。
 
@@ -131,7 +131,7 @@ icon: message
 
 
 
-<mark style="color:blue;">自定义参数</mark>
+#### <mark style="color:blue;">自定义参数</mark>
 
 在请求体（body）中加入额外请求参数，如`presence_penalty`等字段，一般人一般情况下用不到。
 
