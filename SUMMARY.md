@@ -4,7 +4,7 @@
 
 * [项目简介](README.md)
 * [项目规划](cherrystudio/planning.md)
-* [功能一览](cherrystudio/preview/README.md)
+* [功能介绍](cherrystudio/preview/README.md)
   * [对话界面](cherrystudio/preview/chat.md)
   * [智能体](cherrystudio/preview/agents.md)
   * [绘画](cherrystudio/preview/drawing.md)
@@ -19,7 +19,6 @@
     * [显示设置](cherrystudio/preview/settings/display.md)
     * [快捷键设置](cherrystudio/preview/settings/key-shortcut.md)
     * [数据设置](cherrystudio/preview/settings/data.md)
-    * [关于我们](cherrystudio/preview/settings/about.md)
 
 ## 基础教程 <a href="#pre-basic" id="pre-basic"></a>
 
