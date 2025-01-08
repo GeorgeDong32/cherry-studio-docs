@@ -27,16 +27,21 @@ sk-xxxx1,sk-xxxx2,sk-xxxx3,sk-xxxx4
 
 ### API 地址
 
-在使用内置服务商时一般不需要填写API地址，如果需要修改请严格按照官方文档给的地址填写。
+在使用内置服务商时一般不需要填写API地址，如果需要修改请严格按照对应的官方文档给的地址填写。
 
 > 如果服务商给的地址为<mark style="background-color:red;">https://xxx.xxx.com</mark><mark style="background-color:green;">/v1/chat/completions</mark>这种格式，只需要填写根地址部分（<mark style="background-color:red;">https://xxx.xxx.com</mark>）即可。
 >
 > CherryStudio客户端会自动拼接剩余的路径（<mark style="background-color:green;">/v1/chat/completions</mark>），未按要求填写可能会导致无法正常使用。
 
 {% hint style="info" %}
-特殊情况说明：如果服务商的API路径是v2、v3/chat/completions或者其他拼接方式时,可在地址栏手动输入对应版本以"/"结尾。
+说明：大多数服务商的大语言模型路由是统一的，一般情况下不需要进行如下操作。如果服务商的API路径是v2、v3/chat/completions或者其他版本时,可在地址栏手动输入对应版本以"`/`"结尾；当服务商请求路由不是常规的<mark style="background-color:green;">/v1/chat/completions</mark>时使用服务商提供的完整的地址以“`#`”结尾，
 
-![](../../../.gitbook/assets/image.png)
+即：
+
+* API地址使用"`/`"结尾时只拼接"<mark style="background-color:green;">chat/completions</mark>"
+* API地址使用"`#`"结尾时不执行拼接操作，只使用填入的地址。
+
+![](../../../.gitbook/assets/image.png)![](<../../../.gitbook/assets/image (15).png>)
 {% endhint %}
 
 
