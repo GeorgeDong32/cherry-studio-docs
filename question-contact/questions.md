@@ -8,11 +8,11 @@ icon: seal-question
 
 
 
-| 错误码 | 可能得情况                  | 解决方法                                                                                                     |
-| --- | ---------------------- | -------------------------------------------------------------------------------------------------------- |
-| 400 | 请求体格式错误等               | 查看对话返回的错误内容或[控制台](questions.md#kong-zhi-tai-bao-cuo-cha-kan-fang-fa)查看报错内容，根据提示操作，如果是gemini模型，可能需要进行绑卡操作 |
-| 401 | 认证失败：模型不被支持或服务商端账户被封禁等 | 联系或查看对应服务商账户状态                                                                                           |
-| 403 | 请求操作无权限                | 根据对话返回的错误信息或[控制台](questions.md#kong-zhi-tai-bao-cuo-cha-kan-fang-fa)错误信息提示进行相应操作                         |
+| 错误码 | 可能得情况                 | 解决方法                                                                                                     |
+| --- | --------------------- | -------------------------------------------------------------------------------------------------------- |
+| 400 | 请求体格式错误等              | 查看对话返回的错误内容或[控制台](questions.md#kong-zhi-tai-bao-cuo-cha-kan-fang-fa)查看报错内容，根据提示操作，如果是gemini模型，可能需要进行绑卡操作 |
+| 401 | 认证失败：模型不被支持或服务端账户被封禁等 | 联系或查看对应服务商账户状态                                                                                           |
+| 403 | 请求操作无权限               | 根据对话返回的错误信息或[控制台](questions.md#kong-zhi-tai-bao-cuo-cha-kan-fang-fa)错误信息提示进行相应操作                         |
 
 
 
@@ -30,5 +30,5 @@ icon: seal-question
 
 > 如果你无法判断该错误的原因,请将该界面截图发送到[官方交流群](https://t.me/CherryStudioAI)中寻求帮助。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
