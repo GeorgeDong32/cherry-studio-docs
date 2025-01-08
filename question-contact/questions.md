@@ -26,7 +26,7 @@ icon: seal-question
 当前活动窗口必须为CherryStudio的客户端窗口才能调出控制台。
 {% endhint %}
 
-* 在弹出的控制台窗口中点击`Network` → 点击查看②处最后一个标有红色`×` 的请求 → 点击`Response`查看完整的返回内容。
+* 在弹出的控制台窗口中点击<mark style="color:blue;">`Network`</mark> → 点击查看②处最后一个标有红色 <mark style="color:red;">`×`</mark>  的<mark style="color:red;">`completions`</mark>请求 → 点击<mark style="color:blue;">`Response`</mark>查看完整的返回内容（图中④的区域）。
 
 > 如果你无法判断该错误的原因,请将该界面截图发送到[官方交流群](https://t.me/CherryStudioAI)中寻求帮助。
 
