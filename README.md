@@ -61,3 +61,9 @@ Cherry Studio 的设计初衷是满足各行各业对 GPT 技术的需求。无�
 6. 加入社区，与其他用户交流经验
 
 Cherry Studio 不仅仅是一款软件，更是您通往 GPT 技术无限可能的大门。它将复杂的技术简化为易用的工具，让每个人都能轻松驾驭 GPT 的力量。无论您是技术专家还是普通用户，Cherry Studio 都能为您的工作和生活带来前所未有的便利。立即下载 Cherry Studio，开启您的智能之旅吧！
+
+
+
+### StarHistory
+
+![图片](https://urlscan.io/liveshot/?width=1300\&height=620\&url=https://cherrystarhistory.ocool.online/)
