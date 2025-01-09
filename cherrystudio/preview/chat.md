@@ -10,7 +10,7 @@ icon: message
 
 <mark style="background-color:yellow;">助手</mark>是对所选模型做一些个性化的设置来使用模型，如提示词预设和参数预设等，通过这些设置让所选模型能更加符合你预期的工作。
 
-<mark style="background-color:yellow;">`系统默认助手`</mark>预设了一个比较通用的参数(无提示词)，您可以直接使用或者到[智能体页面](agents.md)寻找你需要的预设来使用。
+<mark style="background-color:yellow;">`系统默认助手`</mark>预设了一个比较通用的参数（无提示词），您可以直接使用或者到[智能体页面](agents.md)寻找你需要的预设来使用。
 
 
 
