@@ -23,7 +23,8 @@ icon: seal-question
 * 点击CherryStudio客户端窗口后按下快捷键`Ctrl`+`Shift`+`I`（Mac端：`Command`+`Option`+`I`）
 
 {% hint style="info" %}
-当前活动窗口必须为CherryStudio的客户端窗口才能调出控制台。
+- 当前活动窗口必须为CherryStudio的客户端窗口才能调出控制台;
+- 需要先打开控制台，再点击测试或者发起对话等请求才能收集到请求信息。
 {% endhint %}
 
 * 在弹出的控制台窗口中点击<mark style="color:blue;">`Network`</mark> → 点击查看②处最后一个标有红色 <mark style="color:red;">`×`</mark>  的<mark style="color:red;">`completions`</mark>请求 → 点击<mark style="color:blue;">`Response`</mark>查看完整的返回内容（图中④的区域）。
