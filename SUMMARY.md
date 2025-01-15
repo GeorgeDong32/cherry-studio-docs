@@ -29,6 +29,7 @@
   * [硅基流动](pre-basic/providers/siliconcloud.md)
   * [OpenAI](pre-basic/providers/openai.md)
   * [QwenLM](pre-basic/providers/qwenlm.md)
+  * [字节跳动(豆包)](pre-basic/providers/doubao.md)
   * [OneAPI及其分支项目](pre-basic/providers/oneapi/README.md)
     * [OneAPI](pre-basic/providers/oneapi/oneapi.md)
     * [NewAPI](pre-basic/providers/oneapi/newapi.md)
