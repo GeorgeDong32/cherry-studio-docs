@@ -18,7 +18,7 @@ icon: windows
 >
 > `选择保留`→ `信任 Cherry-Studio`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 打开文件
 
