@@ -29,7 +29,7 @@
 * 打开CherryStudio的[模型服务](../../cherrystudio/preview/settings/providers.md)设置找到豆包
 * 点击添加模型
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>接入点名称下的ep-xxx-xxx即模型ID,模型名称建议填接入模型的名称</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>接入点名称下的ep-xxxxxx即模型ID,模型名称建议填接入模型的名称</p></figcaption></figure>
 
 * 按照此流程依次添加模型
 
@@ -47,3 +47,19 @@
 * 将复制的API Key填入到CherryStudio当中后，打开服务商开关就可以使用了。
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### API地址
+
+API地址有两种写法
+
+* 第一种为客户端默认的:`https://ark.cn-beijing.volces.com/api/v3/`
+* 第二种写法为:`https://ark.cn-beijing.volces.com/api/v3/chat/completions#`
+
+{% hint style="info" %}
+两种写法没什么区别，保持默认即可，无需修改。
+
+关于`/`和`#`结尾的区别参考文档服务商设置的API地址部分，[点击前往](https://docs.cherry-ai.com/cherry-studio/cherrystudio/preview/settings/providers#api-di-zhi)
+{% endhint %}
+
