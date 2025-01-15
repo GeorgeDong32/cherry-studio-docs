@@ -30,6 +30,7 @@
   * [OpenAI](pre-basic/providers/openai.md)
   * [QwenLM](pre-basic/providers/qwenlm.md)
   * [OneAPI及其分支项目](pre-basic/providers/oneapi/README.md)
+    * [OneAPI](pre-basic/providers/oneapi/oneapi.md)
     * [NewAPI](pre-basic/providers/oneapi/newapi.md)
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
