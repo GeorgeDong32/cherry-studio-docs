@@ -1,5 +1,5 @@
 ---
-icon: handshake-simple
+icon: address-card
 ---
 
 # 商务合作
