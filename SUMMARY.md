@@ -40,6 +40,7 @@
 * [个性化设置](advanced-basic/personalization/README.md)
   * [自定义CSS](advanced-basic/personalization/css.md)
   * [字体推荐](advanced-basic/personalization/font.md)
+  * [修改存储位置](advanced-basic/personalization/xiu-gai-cun-chu-wei-zhi.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 
