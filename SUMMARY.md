@@ -56,3 +56,8 @@
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
 * [商务合作](contact-us/questions.md)
+
+## 其他内容 <a href="#other" id="other"></a>
+
+* [模型榜单](other/model_rank/README.md)
+  * [lmarena.ai排行榜](other/model_rank/lmarena.md)
