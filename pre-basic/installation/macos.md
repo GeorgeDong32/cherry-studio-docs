@@ -4,11 +4,9 @@ icon: apple
 
 # MacOS
 
-首先到首页点击下载 Mac 版本
+首先到首页点击下载 Mac 版本，或点击下方直达
 
-https://cherry-ai.com
-
-<figure><img src="../../.gitbook/assets/2024-07-30-14-05-07.webp" alt=""><figcaption></figcaption></figure>
+{% embed url="https://cherry-ai.com/download" %}
 
 下载完成后点击这里
 
