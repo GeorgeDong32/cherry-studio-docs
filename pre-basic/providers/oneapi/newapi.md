@@ -17,10 +17,11 @@
 * 填入刚刚复制的key
 * 回到获取API Key的页面，在对应浏览器地址栏复制根地址，例：
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p><strong>只需要复制https://xxx.xxx.com即可，“/”后的内容不需要</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p><strong>只需要复制https://xxx.xxx.com即可，“/”及其之后的内容不需要</strong></p></figcaption></figure>
 
 {% hint style="info" %}
-当地址为IP+端口时填http://IP:端口即可，如：http://127.0.0.1:3000
+* 当地址为IP+端口时填http://IP:端口即可，如：http://127.0.0.1:3000
+* 严格区分`http`和`https`，如果没有开启SSL就不要填https
 {% endhint %}
 
 * 添加模型（点击管理自动获取或手动输入）打开右上角开关即可使用。
