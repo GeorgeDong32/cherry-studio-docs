@@ -271,3 +271,11 @@ icon: message
 填法：参数名称—参数类型（文本、数字等）—值，参考文档：[点击前往](https://openai.apifox.cn/doc-3222739)
 
 > 上述top-p、maxtokens、stream等参数就是这些参数之一。
+
+
+
+{% hint style="info" %}
+自定义参数优先级高于内置参数。即自定义参数如果与内置参数重复，则自定义参数会覆盖内置参数。
+
+如：自定义参数中设置`model`为`gpt-4o`后，在对话中无论选择哪个模型都使用的是`gpt-4o`模型。
+{% endhint %}
