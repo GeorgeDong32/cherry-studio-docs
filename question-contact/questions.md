@@ -20,14 +20,14 @@ icon: seal-question
 
 ## 控制台报错查看方法
 
-* 点击CherryStudio客户端窗口后按下快捷键`Ctrl`+`Shift`+`I`（Mac端：`Command`+`Option`+`I`）
+* 点击CherryStudio客户端窗口后按下快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>（Mac端：<kbd>Command</kbd>+<kbd>Option</kbd>+<kbd>I</kbd>）
 
 {% hint style="info" %}
 - 当前活动窗口必须为CherryStudio的客户端窗口才能调出控制台;
 - 需要先打开控制台，再点击测试或者发起对话等请求才能收集到请求信息。
 {% endhint %}
 
-* 在弹出的控制台窗口中点击<mark style="color:blue;">`Network`</mark> → 点击查看②处最后一个标有红色 <mark style="color:red;">`×`</mark>  的<mark style="color:red;">`completions`</mark>请求 → 点击<mark style="color:blue;">`Response`</mark>查看完整的返回内容（图中④的区域）。
+* 在弹出的控制台窗口中点击<mark style="color:blue;">`Network`</mark> → 点击查看②处最后一个标有红色 <mark style="color:red;">`×`</mark>  的<mark style="color:red;">`completions`</mark>_（对话类、翻译、模型连通性检查等遇到错误时_） 或<mark style="color:red;">`generations`</mark>_（绘画遇到错误时）_ → 点击<mark style="color:blue;">`Response`</mark>查看完整的返回内容（图中④的区域）。
 
 > 如果你无法判断该错误的原因,请将该界面截图发送到[官方交流群](https://t.me/CherryStudioAI)中寻求帮助。
 
