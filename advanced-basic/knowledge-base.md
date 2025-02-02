@@ -66,9 +66,8 @@ CherryStudio 支持多种添加数据的方式：
 3. 一般网站都会提供sitemap，如CherryStudio的[sitemap](https://docs.cherry-ai.com/cherry-studio/sitemap-pages.xml)，一般情况下在网站的根地址（即网址）后加/sitemap.xml可以获取到相关信息。如`aaa.com/sitemap.xml` 。
 4. 如果网站没提供sitemap或者网址比较杂可自行组合一个sitemap的xml文件使用，文件暂时需要使用公网可直接访问的直链的方式填入，本地文件链接不会被识别。
 
-> &#x20;1\. 可以让AI生成sitemap文件或让AI写一个sitemap的HTML生成器工具；
->
-> 2. 直链可以使用oss直链或者网盘直链等方式来生成。
+> 1) 可以让AI生成sitemap文件或让AI写一个sitemap的HTML生成器工具；
+> 2) 直链可以使用oss直链或者网盘直链等方式来生成。如果没有现成工具也可到[ocoolAI](https://one.ocoolai.com/login)官网，登录后使用网站顶栏的免费文件上传工具来生成直链。
 {% endhint %}
 
 ## 搜索知识库
