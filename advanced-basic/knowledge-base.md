@@ -17,6 +17,14 @@ icon: book-open-cover
 
 <figure><img src="../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+注意：
+
+1. 嵌入类模型、对话类模型、绘画类模型等各自有各自的功能，其请求方式跟返回内容、结构都有所不同，请勿强行将其他类别的模型作为嵌入模型使用；
+2. 嵌入类模型CherryStudio会自动分类显示在嵌入模型列表中（如上图），如果确认为嵌入模型但未被正确分类，可到模型列表中点击对应模型后方的设置按钮勾选嵌入选项；
+3. 如果无法确认哪些模型是嵌入模型可到对应服务商查询模型信息。
+{% endhint %}
+
 ## 创建知识库
 
 1. 知识库入口：在 CherryStudio 左侧工具栏，点击知识库图标，即可进入管理页面；
@@ -39,6 +47,8 @@ icon: book-open-cover
 
 <figure><img src="../.gitbook/assets/image-5.webp" alt=""><figcaption></figcaption></figure>
 
+
+
 ## 添加多种来源的数据
 
 CherryStudio 支持多种添加数据的方式：
@@ -48,7 +58,16 @@ CherryStudio 支持多种添加数据的方式：
 3. 站点地图：支持 xml 格式的站点地图，如[https://docs.siliconflow.cn/sitemap.xml](https://docs.siliconflow.cn/sitemap.xml)；
 4. 纯文本笔记：支持输入纯文本的自定义内容。
 
-<figure><img src="../.gitbook/assets/image-6.webp" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+提示：
+
+1. 导入知识库的文档中的插图暂不支持转换为向量，需要手动转换为文本；
+2. 使用网址作为知识库来源时不一定会成功，有些网站有比较严格的反扒机制（或需要登录、授权等），因此该方式不一定能获取到准确内容。创建完成后建议先搜索测试一下。
+3. 一般网站都会提供sitemap，如CherryStudio的[sitemap](https://docs.cherry-ai.com/cherry-studio/sitemap-pages.xml)一般情况下在网站的根地址（即网址）后加/sitemap.xml可以获取到相关信息。如`aaa.com/sitemap.xml` 。
+4. 如果网址没提供sitemap或者网址比较杂可自行组合一个sitemap的xml文件使用，文件暂时需要使用公网可直接访问的直链的方式填入，本地文件链接不会被识别。
+
+> &#x20;可以让AI生成sitemap文件或让AI写一个sitemap的HTML生成器工具。
+{% endhint %}
 
 ## 搜索知识库
 

@@ -33,3 +33,24 @@ icon: seal-question
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
+## 公式没被渲染/公式渲染错误
+
+* 公式未被渲染而是直接显示的公式的代码时检查公式是否有定界符
+
+> **定界符用法**
+>
+> _行内公式_
+>
+> * 使用单个美元符号: `$formula$`
+> * 或使用`\(` 和 `\)`，如：`\(formula\)`
+>
+>
+>
+> _独立公式块_
+>
+> * 使用双美元符号: `$$formula$$`
+> * 或使用 `\[formula\]`
+> * 示例: `$$\sum_{i=1}^n x_i$$`\
+>   $$\sum_{i=1}^n x_i$$
+
+* 公式渲染错误/乱码 常见在公式内包含中文内容时,尝试切换公式引擎为KateX。
