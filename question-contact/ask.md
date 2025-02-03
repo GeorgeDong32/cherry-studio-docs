@@ -29,8 +29,8 @@ CherryStudio是一个免费开源的项目，开发者和志愿者人手严重�
 如果上述一、二两步并没有找到答案或者解决你的问题可以到官方[tg频道](https://t.me/CherryStudioAI)、[Discord频道](https://discord.com/invite/wez8HtpxqQ)、[QQ群 ](#user-content-fn-1)[^1] （[一键进群](https://qm.qq.com/cgi-bin/qm/qr?authKey=xe5nfGVZLMYnlJq%2F%2B4kN03YWcDBB2lnD7tc9rWus2mxS0JHUbOzk79cO7MYuqyGR\&k=UKVgl3YPHmwPaU8qeO1VG03NcUkACKsc\&noverify=0)）  详细描述问题。
 
 1. 如果是模型报错，请提供完整的界面截图以及控制台报错信息。敏感信息可以打码处理，但是模型名称、参数设置、报错内容务必保留在截图当中。控制台报错信息查看方法[点击这里](questions.md#kong-zhi-tai-bao-cuo-cha-kan-fang-fa)
-2. 如果是软件Bug，请提供详细的复现[^2]步骤，方便开发者调试和修复。如果是偶发问题无法复现，请尽可能详细描述问题出现时的相关场景、背景和配置参数等。\
-   除此之外你还需要将平台信息（Window、Mac或Linux）、软件版本号等信息一并列入问题描述当中。
+2. 如果是软件Bug，请提供<mark style="background-color:green;">具体的错误描述</mark>和<mark style="background-color:green;">详细的</mark>[<mark style="background-color:green;">复现</mark>](#user-content-fn-2)[^2]<mark style="background-color:green;">步骤</mark>，方便开发者调试和修复。如果是偶发问题无法复现，请尽可能详细描述问题出现时的相关场景、背景和配置参数等。\
+   除此之外你还需要将<mark style="background-color:green;">平台信息</mark>（Window、Mac或Linux）、<mark style="background-color:green;">软件版本号</mark>等信息一并列入问题描述当中。
 
 
 
@@ -42,4 +42,4 @@ CherryStudio是一个免费开源的项目，开发者和志愿者人手严重�
 
 [^1]: 群号：611659451
 
-[^2]: 即（错误）重复出现
+[^2]: 即（错误）再次出现
