@@ -40,7 +40,9 @@ icon: message
 
 ### 消息设置
 
-<mark style="color:blue;">**`消息分割线`**</mark>:使用分割线将消息正文与操作栏隔开。
+#### <mark style="color:blue;">**`消息分割线`**</mark>:
+
+使用分割线将消息正文与操作栏隔开。
 
 {% tabs %}
 {% tab title="打开时" %}
@@ -54,11 +56,15 @@ icon: message
 
 
 
-<mark style="color:blue;">**`使用衬线字体`**</mark>：字体样式切换，现在你也可以通过[自定义css](../../advanced-basic/personalization/)来更换字体。
+#### <mark style="color:blue;">**`使用衬线字体`**</mark>：
+
+字体样式切换，现在你也可以通过[自定义css](../../advanced-basic/personalization/)来更换字体。
 
 
 
-<mark style="color:blue;">**`代码显示行号`**</mark>：模型输出代码片段时显示代码块行号。
+#### <mark style="color:blue;">**`代码显示行号`**</mark>：
+
+模型输出代码片段时显示代码块行号。
 
 {% tabs %}
 {% tab title="关闭时" %}
@@ -72,40 +78,52 @@ icon: message
 
 
 
-<mark style="color:blue;">**`代码块可折叠`**</mark>：打开后当输出长代码在代码片段当中时，可自动折叠代码块。
+#### <mark style="color:blue;">**`代码块可折叠`**</mark>：
+
+打开后当输出长代码在代码片段当中时，可自动折叠代码块。
 
 
 
-<mark style="color:blue;">**`消息样式`**</mark>：可切对话界面换为气泡样式或列表样式。
+#### <mark style="color:blue;">**`消息样式`**</mark>：
+
+可切对话界面换为气泡样式或列表样式。
 
 
 
-<mark style="color:blue;">**`代码风格`**</mark>：可切换代码片段的显示风格。
+#### <mark style="color:blue;">**`代码风格`**</mark>：
+
+#### 可切换代码片段的显示风格。
 
 
 
-<mark style="color:blue;">**`数学公式引擎`**</mark>：
+#### <mark style="color:blue;">**`数学公式引擎`**</mark>：
 
 * KaTeX 渲染速度更快，因为它是专门为性能优化设计的；
 * MathJax 渲染较慢，但功能更全面，支持更多的数学符号和命令。
 
+#### <mark style="color:blue;">**`消息字体大小`**</mark>：
 
-
-<mark style="color:blue;">**`消息字体大小`**</mark>：调整对话界面字体的大小。
+#### 调整对话界面字体的大小。
 
 
 
 ### 输入设置
 
-<mark style="color:blue;">**`显示预估Token数`**</mark>：在输入框显示输入文本预估消耗的Token数（非实际上下文消耗的Token，仅供参考）。
+#### <mark style="color:blue;">**`显示预估Token数`**</mark>：
+
+在输入框显示输入文本预估消耗的Token数（非实际上下文消耗的Token，仅供参考）。
 
 
 
-<mark style="color:blue;">**`长文本粘贴为文件`**</mark>：当从其他地方复制长段文本粘贴到输入框时会自动显示为文件的样式，减少后续输入内容时的干扰。
+#### <mark style="color:blue;">**`长文本粘贴为文件`**</mark>：
+
+当从其他地方复制长段文本粘贴到输入框时会自动显示为文件的样式，减少后续输入内容时的干扰。
 
 
 
-<mark style="color:blue;">**`Markdown渲染输入消息`**</mark>：关闭时只渲染模型回复的消息，不渲染发送的消息。
+#### <mark style="color:blue;">**`Markdown渲染输入消息`**</mark>：
+
+关闭时只渲染模型回复的消息，不渲染发送的消息。
 
 {% tabs %}
 {% tab title="关闭时" %}
@@ -119,7 +137,9 @@ icon: message
 
 
 
-<mark style="color:blue;">**`快速敲击3次空格翻译`**</mark>：在对话界面输入框输入消息后，连敲三次空格可翻译输入的内容为英文。的
+#### <mark style="color:blue;">**`快速敲击3次空格翻译`**</mark>：
+
+在对话界面输入框输入消息后，连敲三次空格可翻译输入的内容为英文。的
 
 {% hint style="info" %}
 注意：该操作会覆盖原文。
@@ -141,15 +161,21 @@ icon: message
 
 #### 提示词设置
 
-<mark style="color:blue;">**`名称`**</mark>：可自定义为方便辨识的助手名称；
+#### <mark style="color:blue;">**`名称`**</mark>：
 
-<mark style="color:blue;">**`提示词`**</mark>：即prompt，可以参照智能体页面的提示词写法来编辑内容。
+可自定义为方便辨识的助手名称；
+
+#### <mark style="color:blue;">**`提示词`**</mark>：
+
+#### 即prompt，可以参照智能体页面的提示词写法来编辑内容。
 
 
 
 #### 模型设置
 
-<mark style="color:blue;">**`默认模型`**</mark>：可以为该助手固定一个默认模型，从智能体页面添加时或复制助手时初始模型为该模型。不设置该项初始模型则为全局初始模型(即[默认助手模型](settings/default-models.md#mo-ren-zhu-shou-mo-xing))。
+#### <mark style="color:blue;">**`默认模型`**</mark>：
+
+#### 可以为该助手固定一个默认模型，从智能体页面添加时或复制助手时初始模型为该模型。不设置该项初始模型则为全局初始模型(即[默认助手模型](settings/default-models.md#mo-ren-zhu-shou-mo-xing))。
 
 {% hint style="info" %}
 助手的默认模型有两种，一为[全局默认对话模型](settings/default-models.md#mo-ren-zhu-shou-mo-xing)，另一为助手默认模型；助手的默认模型优先级高于全局默认对话模型。当不设置助手默认模型时，助手默认模型=全局默认对话模型。
@@ -157,7 +183,9 @@ icon: message
 
 
 
-<mark style="color:blue;">**`自动重置模型`**</mark>：打开时 - 当在该话题下使用过程中切换其他模型使用时，再次新建话题会将新话题的重置为助手的默认模型。当该项关闭时新建话题的模型会跟随上一话题所使用的模型。
+#### <mark style="color:blue;">**`自动重置模型`**</mark>：
+
+#### 打开时 - 当在该话题下使用过程中切换其他模型使用时，再次新建话题会将新话题的重置为助手的默认模型。当该项关闭时新建话题的模型会跟随上一话题所使用的模型。
 
 > 如助手的默认模型为gpt-3.5-turbo，我在该助手下创建话题1，在话题1的对话过程中切换了gpt-4o使用，此时：
 >
@@ -167,7 +195,7 @@ icon: message
 
 
 
-<mark style="color:blue;">**`温度 (Temperature)`**</mark> ：
+#### <mark style="color:blue;">**`温度 (Temperature)`**</mark> ：
 
 温度参数控制模型生成文本的随机性和创造性程度（默认值为0.7）。具体表现为：
 
@@ -186,7 +214,9 @@ icon: message
 
 
 
-<mark style="color:blue;">**`Top P (核采样)`**</mark>：默认值为 1，值越小，AI 生成的内容越单调，也越容易理解；值越大，AI 回复的词汇范围越大，越多样化。
+#### <mark style="color:blue;">**`Top P (核采样)`**</mark>：
+
+#### 默认值为 1，值越小，AI 生成的内容越单调，也越容易理解；值越大，AI 回复的词汇范围越大，越多样化。
 
 核采样通过控制词汇选择的概率阈值来影响输出：
 
@@ -213,7 +243,7 @@ icon: message
 
 
 
-<mark style="color:blue;">**`上下文数量 (Context Window)`**</mark>&#x20;
+#### <mark style="color:blue;">**`上下文数量 (Context Window)`**</mark>&#x20;
 
 要保留在上下文中的消息数量，数值越大，上下文越长，消耗的 token 越多：
 
@@ -225,7 +255,7 @@ icon: message
 
 
 
-<mark style="color:blue;">**`开启消息长度限制(MaxToken)`**</mark>
+#### <mark style="color:blue;">**`开启消息长度限制(MaxToken)`**</mark>
 
 单次回答最大[Token](https://docs.cherry-ai.com/cherrystudio/question-contact/knowledge#shen-me-shi-tokens)数,在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。具体设置多少取决于自己的需要，当然也可以参考以下建议。
 
@@ -248,7 +278,7 @@ icon: message
 
 
 
-<mark style="color:blue;">**`流式输出（Stream）`**</mark>
+#### <mark style="color:blue;">**`流式输出（Stream）`**</mark>
 
 流式输出是一种数据处理方式，它允许数据以连续的流形式进行传输和处理，而不是一次性发送所有数据。这种方式使得数据可以在生成后立即被处理和输出，极大地提高了实时性和效率。
 
@@ -264,7 +294,7 @@ icon: message
 
 
 
-<mark style="color:blue;">**`自定义参数`**</mark>
+#### <mark style="color:blue;">**`自定义参数`**</mark>
 
 在请求体（body）中加入额外请求参数，如`presence_penalty`等字段，一般人一般情况下用不到。
 
