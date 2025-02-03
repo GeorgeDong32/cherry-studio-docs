@@ -33,6 +33,20 @@ icon: seal-question
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
+该检查方法不仅在对话时可以获取错误信息，在模型测试时、添加知识库时、绘画时等都可以使用。无论哪种情况下都需要先打开调试窗口，再进行请求操作来获取请求信息。·
+
+{% hint style="info" %}
+不同场景下Name(上图②处)栏里的名称会有所区别
+
+对话、翻译、模型检查：<mark style="color:red;">`completions`</mark>&#x20;
+
+绘画：<mark style="color:red;">`generations`</mark>
+
+知识库创建：<mark style="color:red;">`embeddings`</mark>&#x20;
+{% endhint %}
+
+
+
 ## 公式没被渲染/公式渲染错误
 
 * 公式未被渲染而是直接显示的公式的代码时检查公式是否有定界符
@@ -54,3 +68,13 @@ icon: seal-question
 >   $$\sum_{i=1}^n x_i$$
 
 * 公式渲染错误/乱码 常见在公式内包含中文内容时,尝试切换公式引擎为KateX。
+
+## 无法创建知识库/提示获取嵌入维度失败
+
+1. 模型状态不可用
+
+> 确认服务商是否支持该模型或确认服务商该模型服务状态是否正常。
+
+2.使用了非嵌入模型
+
+{% include "../.gitbook/includes/zhu-yi-qian-ru-lei-mo-xing-dui-hua-lei-mo-xing-hui-hua-lei-mo-xing-deng-ge-zi-you-ge-zi-de-....md" %}
