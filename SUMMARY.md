@@ -50,6 +50,7 @@
 ## 问题&反馈 <a href="#question-contact" id="question-contact"></a>
 
 * [常见问题](question-contact/questions.md)
+* [高效提问方法](question-contact/ask.md)
 * [知识科普](question-contact/knowledge.md)
 * [反馈&建议](question-contact/suggestions.md)
 
