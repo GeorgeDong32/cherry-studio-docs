@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # QwenLM
 
 ![](<../../.gitbook/assets/Google Chrome 2025-01-15 09.28.54 (1).tiff>)打开 QwenLM 官网：[https://chat.qwenlm.ai/](https://chat.qwenlm.ai/) 并登录账号
