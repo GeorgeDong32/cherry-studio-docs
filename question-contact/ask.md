@@ -24,7 +24,7 @@ CherryStudio是一个免费开源的项目，随着项目壮大，项目小组�
 
 
 
-## 三、官方社群提问或在GitHub&#x20;
+## 三、官方社群提问或在GitHub提出issue
 
 如果上述一、二两步并没有找到答案或者无法解决你的问题，可以到官方[tg频道](https://t.me/CherryStudioAI)、[Discord频道](https://discord.com/invite/wez8HtpxqQ)、[QQ群 ](#user-content-fn-1)[^1] （[一键进群](https://qm.qq.com/cgi-bin/qm/qr?authKey=xe5nfGVZLMYnlJq%2F%2B4kN03YWcDBB2lnD7tc9rWus2mxS0JHUbOzk79cO7MYuqyGR\&k=UKVgl3YPHmwPaU8qeO1VG03NcUkACKsc\&noverify=0)）  详细描述问题并寻求帮助。
 
