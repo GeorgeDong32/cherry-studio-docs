@@ -78,3 +78,11 @@ icon: seal-question
 2.使用了非嵌入模型
 
 {% include "../.gitbook/includes/zhu-yi-qian-ru-lei-mo-xing-dui-hua-lei-mo-xing-hui-hua-lei-mo-xing-deng-ge-zi-you-ge-zi-de-....md" %}
+
+## 模型不能识图/无法上传或选择图片
+
+首先需要确认模型是否支持识图，热门模型CherryStudio会对其分类，模型名称后带小眼睛图标的即支持识图。
+
+识图模型会支持图像文件的上传，如果模型功能未被正确匹配可在对应服务商的模型列表当中找到该模型，点击其名称后的设置按钮并勾选图像选项。
+
+模型具体的信息可以到对应服务商找到其信息查阅。同嵌入模型一样，不支持视觉的模型不需要强制开启图像功能，勾选了图像的选项也没有作用。
