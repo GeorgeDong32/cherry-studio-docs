@@ -11,7 +11,7 @@ description: Windows 版本安装教程
 
 {% embed url="https://cherry-ai.com" %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>打开官方网站</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>打开官方网站</p></figcaption></figure>
 
 ## 等待下载完成
 

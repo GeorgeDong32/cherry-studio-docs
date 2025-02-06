@@ -3,14 +3,14 @@
 * 登录[火山引擎](https://console.volcengine.com/)
 * 找到火山方舟点击进入,或直接点击[这里直达](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 添加模型
 
 * 进入页面后在侧栏最下方找到开通管理
 * 在开通管理页面开通需要使用的模型
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 全部开通完成后点击`在线管理`，进入后点击`创建推理接入点`
 
