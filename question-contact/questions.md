@@ -23,6 +23,8 @@ icon: seal-question
 
 
 
+***
+
 
 
 ## 控制台报错查看方法
@@ -52,6 +54,8 @@ icon: seal-question
 知识库创建：<mark style="color:red;">`embeddings`</mark>&#x20;
 {% endhint %}
 
+***
+
 
 
 ## 公式没被渲染/公式渲染错误
@@ -76,6 +80,12 @@ icon: seal-question
 
 * 公式渲染错误/乱码 常见在公式内包含中文内容时,尝试切换公式引擎为KateX。
 
+
+
+***
+
+
+
 ## 无法创建知识库/提示获取嵌入维度失败
 
 1. 模型状态不可用
@@ -85,6 +95,8 @@ icon: seal-question
 2.使用了非嵌入模型
 
 {% include "../.gitbook/includes/zhu-yi-qian-ru-lei-mo-xing-dui-hua-lei-mo-xing-hui-hua-lei-mo-xing-deng-ge-zi-you-ge-zi-de-....md" %}
+
+***
 
 ## 模型不能识图/无法上传或选择图片
 
