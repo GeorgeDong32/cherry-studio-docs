@@ -3,6 +3,7 @@
 ## CherryStudio
 
 * [项目简介](README.md)
+* [客户端下载](cherrystudio/download.md)
 * [项目规划](cherrystudio/planning.md)
 * [功能介绍](cherrystudio/preview/README.md)
   * [对话界面](cherrystudio/preview/chat.md)
