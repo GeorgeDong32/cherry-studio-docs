@@ -3,24 +3,24 @@
 * 登录[火山引擎](https://console.volcengine.com/)
 * 找到火山方舟点击进入,或直接点击[这里直达](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 添加模型
 
 * 进入页面后在侧栏最下方找到开通管理
 * 在开通管理页面开通需要使用的模型
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 全部开通完成后点击`在线管理`，进入后点击`创建推理接入点`
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="528"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="528"><figcaption></figcaption></figure>
 
 * 接入点名称随便写，保证自己能辨识即可，建议跟模型名同步
 * 点击`+添加模型`按钮
 * ① 选择模型、② 选择版本（主线模型）、③ 确认
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 点击`确认接入`
 
@@ -63,4 +63,4 @@ API地址有两种写法
 关于`/`和`#`结尾的区别参考文档服务商设置的API地址部分，[点击前往](https://docs.cherry-ai.com/cherry-studio/cherrystudio/preview/settings/providers#api-di-zhi)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>官方文档cURL示例</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>官方文档cURL示例</p></figcaption></figure>

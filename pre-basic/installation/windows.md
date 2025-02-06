@@ -1,18 +1,21 @@
 ---
 icon: windows
+description: Windows 版本安装教程
 ---
 
 # Windows
 
-下载
+## 打开官方网站
 
-* 到官网找到对应版本的安装包下载
+点击下载选择合适的版本
 
 {% embed url="https://cherry-ai.com" %}
 
-* 等待下载完成
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>打开官方网站</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/download.webp" alt="" width="563"><figcaption></figcaption></figure>
+## 等待下载完成
+
+<figure><img src="../../.gitbook/assets/download.webp" alt="" width="563"><figcaption><p>Edge 浏览器正在下载</p></figcaption></figure>
 
 > 如果出现浏览器提示文件不被信任等情况选择保留即可
 >
@@ -20,11 +23,11 @@ icon: windows
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* 打开文件
+## 打开文件
 
-<figure><img src="../../.gitbook/assets/download (1).webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/download (1).webp" alt="" width="563"><figcaption><p>Edge 下载列表</p></figcaption></figure>
 
-* 安装
+## 安装
 
-
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>软件安装界面</p></figcaption></figure>
 
