@@ -20,3 +20,7 @@ icon: desktop-arrow-down
 
 * [Linux x86\_64 版本](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.19-x86_64.AppImage)
 * [Linux ARM64 版本](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.19-arm64.AppImage)
+
+## 网盘下载
+
+123盘:[https://www.123865.com/s/oAHxjv-VkMiH](https://www.123865.com/s/oAHxjv-VkMiH)
