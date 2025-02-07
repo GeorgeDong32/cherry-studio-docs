@@ -14,7 +14,35 @@ icon: server
 
 你也可以通过<mark style="color:blue;">`A`</mark>—备份→<mark style="color:blue;">`WebDav`</mark>—恢复→<mark style="color:blue;">`B`</mark>的方式来实现多端数据同步。
 
+#### 以坚果云为例
 
+1. 登录坚果云，点击右上角用户名，选择“账户信息”：
+
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+2. 选择“安全选项”，点击“添加应用”
+
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+3. 输入应用名称，生成随机密码；
+
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+4. 复制记录密码；
+
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+5. 获取服务器地址，账户和密码；
+
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+6. 在 CherryStudio 设置——数据设置中，填写 WebDAV 信息；
+
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+7. 选择备份或者恢复数据，并可以设置自动备份的时间周期。
+
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 webdav服务门槛比较低的一般就是网盘：
