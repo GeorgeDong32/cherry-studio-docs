@@ -19,3 +19,11 @@ icon: square-code
 6\. **社区参与：**&#x52A0;入讨论并帮助用户。
 
 7\. **推广使用：**&#x5BA3;传 Cherry Studio。
+
+## 参与方式
+
+发送邮件到 [dev@cherry-ai.com](mailto:dev@cherry-ai.com?subject=申请成为开发者\&body=申请理由)
+
+邮件标题：申请成为开发者
+
+邮件内容：申请理由
