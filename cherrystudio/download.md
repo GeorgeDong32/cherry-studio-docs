@@ -24,3 +24,5 @@ icon: desktop-arrow-down
 ## 网盘下载
 
 123盘:[https://www.123865.com/s/oAHxjv-VkMiH](https://www.123865.com/s/oAHxjv-VkMiH)
+
+夸克: [https://pan.quark.cn/s/9ba64e1db829](https://pan.quark.cn/s/9ba64e1db829)
