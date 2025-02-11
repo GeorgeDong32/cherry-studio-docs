@@ -35,9 +35,14 @@
     * [OneAPI](pre-basic/providers/oneapi/oneapi.md)
     * [NewAPI](pre-basic/providers/oneapi/newapi.md)
 
+***
+
+* [知识库教程](knowledge-base/README.md)
+  * [知识库教程](knowledge-base/knowledge-base.md)
+  * [数据存储说明](knowledge-base/shu-ju-cun-chu-shuo-ming.md)
+
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
-* [知识库教程](advanced-basic/knowledge-base.md)
 * [个性化设置](advanced-basic/personalization/README.md)
   * [自定义CSS](advanced-basic/personalization/css.md)
   * [字体推荐](advanced-basic/personalization/font.md)
