@@ -4,66 +4,111 @@ icon: cherries
 
 # 项目简介
 
-🍒 Cherry Studio 是一个支持多模型服务的桌面客户端，为专业用户而打造，内置 30 多个行业的智能助手，帮助用户在多种场景下提升工作效率。
+<figure><img src=".gitbook/assets/docs-readme-banner1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2024-07-30-17-19-55.webp" alt=""><figcaption></figcaption></figure>
-
-#### 各种模型服务聚合
-
-Cherry Studio 内置了很多服务商，集成了超过 300 多个大语言模型。在使用过程中，你可以随意切换模型来回答问题，充分利用各个大模型的优势解决问题。目前，已经集成的服务商见[服务商配置](pre-basic/providers/)：
-
-<figure><img src=".gitbook/assets/2024-07-30-17-21-14.webp" alt=""><figcaption></figcaption></figure>
+CherryStudio 是一款集多模型对话、知识库管理、AI 绘画、翻译等功能于一体的全能 AI 助手平台。 CherryStudio的高度自定义的设计、强大的扩展能力和友好的用户体验，使其成为专业用户和 AI 爱好者的理想选择。无论是零基础用户还是开发者，都能在 CherryStudio 中找到适合自己的AI功能，提升工作效率和创造力。
 
 
 
-#### 跨平台兼容，为您带来无缝体验
+***
 
-Cherry Studio 支持 Windows 和 macOS 两大主流操作系统，未来还会支持移动平台。这意味着无论您使用什么设备，都能享受到 Cherry Studio 带来的便利。告别平台限制，尽情挖掘 GPT 技术的潜力！
+### **核心功能与特色**
 
-<figure><img src=".gitbook/assets/2024-07-30-17-27-22.webp" alt=""><figcaption></figcaption></figure>
+#### **1. 基础对话功能**
 
-#### 为多种专业人士量身打造
+* **一问多答**：支持同一问题通过多个模型同时生成回复，方便用户对比不同模型的表现。
 
-Cherry Studio 的设计初衷是满足各行各业对 GPT 技术的需求。无论您是埋头编码的开发者、追求灵感的设计师，还是笔耕不辍的作家，Cherry Studio 都能成为您的得力助手。通过自然语言处理技术，它能帮助您提升工作效率，轻松应对数据分析、文本生成、代码编写等各种挑战。
+<figure><img src=".gitbook/assets/docs-readme-1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2024-07-30-17-39-01.webp" alt=""><figcaption></figcaption></figure>
+* **自动分组**：每个助手的对话记录会自动分组管理，便于用户快速查找历史对话。
+* **对话导出**：支持将完整对话导出为多种格式（如 Markdown、PDF 等），方便储存与分享。
+* **高度自定义参数**：除了基础参数调整外，还支持用户填写自定义参数，满足个性化需求。
 
-#### 丰富的应用场景，激发您的创造力
+<figure><img src=".gitbook/assets/docs-readme-2 (2).png" alt=""><figcaption></figcaption></figure>
 
-* 开发者的代码伙伴：利用 Cherry Studio 进行代码生成和调试，让编程更加高效。
-* 设计师的灵感源泉：借助 Cherry Studio 进行创意文本生成和设计说明，激发无限创意。
-* 作家的得力助手：通过 Cherry Studio 辅助撰写和编辑文章，让文字创作更加流畅。
+* **助手市场**：内置千余个行业专用助手，涵盖翻译、编程、写作等领域，同时支持用户自定义助手。
 
-#### 内置翻译助手，轻松解决语言障碍
+<figure><img src=".gitbook/assets/docs-readme-4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/2024-07-30-17-37-59.webp" alt=""><figcaption></figcaption></figure>
+* **多种格式渲染**：支持 Markdown 渲染、公式渲染、HTML 实时预览等功能，提升内容展示效果。
 
-突出特色，引领创新
+<figure><img src=".gitbook/assets/docs-readme-3 (1).png" alt=""><figcaption></figcaption></figure>
 
-1. 开源精神：Cherry Studio 提供开源代码，鼓励用户自行定制和扩展，打造专属的 GPT 助手。
-2. 持续更新：最新版本 v0.4.4 已经发布，开发者始终致力于优化用户体验和功能完善。
-3. 简约设计：界面直观简洁，操作便捷，让您专注于创作本身。
-4. 高效工作：可以快速切换不同的模型回答问题，快速寻找解决方案
-5. 智能会话：通过 AI 自动命名会话，让所有的聊天记录都一目了然，方便后期整理和阅读
-6. 拖拽排序：不论是智能体、会话、还是设置都可以拖拽鼠标完成排序，让信息井井有条
-7. 翻译无忧：内置智能翻译服务，覆盖主流语种，借助 AI 技术实现精准高效的跨语言交流
-8. 多语言支持：满足全球用户的需求，让 GPT 技术跨越语言障碍。
-9. 多主题切换：支持白天和夜间模式，不论是白天还是夜晚都可以赏心悦目
+#### **2. 多种特色功能集成**
 
-#### 轻松上手，开启智能之旅
+* **AI 绘画**：提供专用绘画面板，用户可通过自然语言描述生成高质量图像。
 
-使用 Cherry Studio 非常简单，只需几个步骤即可开启您的 GPT 之旅：
+<figure><img src=".gitbook/assets/docs-readme-5.png" alt=""><figcaption></figcaption></figure>
 
-1. 下载适合您系统的版本
-2. 安装并启动客户端
-3. 根据界面提示操作
-4. 尽情使用各种强大功能
-5. 根据需要调整设置
-6. 加入社区，与其他用户交流经验
+* **AI 小程序**：集成多种免费 Web 端 AI 工具，无需切换浏览器即可直接使用。
+* **翻译功能**：支持专用翻译面板、对话翻译、提示词翻译等多种翻译场景。
+* **文件管理**：对话、绘画和知识库中的文件统一分类管理，避免繁琐查找。
 
-Cherry Studio 不仅仅是一款软件，更是您通往 GPT 技术无限可能的大门。它将复杂的技术简化为易用的工具，让每个人都能轻松驾驭 GPT 的力量。无论您是技术专家还是普通用户，Cherry Studio 都能为您的工作和生活带来前所未有的便利。立即下载 Cherry Studio，开启您的智能之旅吧！
+<figure><img src=".gitbook/assets/docs-readme-6.png" alt=""><figcaption></figcaption></figure>
 
+* **全局搜索**：支持快速定位历史记录和知识库内容，提升工作效率。
 
+<figure><img src=".gitbook/assets/docs-readme-7.png" alt=""><figcaption></figcaption></figure>
+
+#### **3. 多服务商统一管理机制**
+
+* **服务商模型聚合**：支持 OpenAI、Gemini、Anthropic、Azure 等主流服务商的模型统一调用。
+* **模型自动获取**：一键获取完整模型列表，无需手动配置。
+* **多秘钥轮询**：支持多个 API 秘钥轮换使用，避免速率限制问题。
+* **精准头像匹配**：为每个模型自动匹配专属头像，提升辨识度。
+* **自定义服务商**：支持符合 OpenAI、Gemini 、Anthropic等规范的三方服务商接入，兼容性强。
+
+<figure><img src=".gitbook/assets/docs-readme-8.png" alt=""><figcaption></figcaption></figure>
+
+#### **4. 高度自定义界面和布局**
+
+* **自定义 CSS**：支持全局样式自定义，打造专属界面风格。
+* **自定义对话布局**：支持列表或气泡样式布局，并可自定义消息样式（如代码片段样式）。
+* **自定义头像**：支持为软件和助手设置个性化头像。
+* **自定义侧边栏菜单**：用户可根据需求隐藏或排序侧边栏功能，优化使用体验。
+
+<figure><img src=".gitbook/assets/docs-readme-9.png" alt=""><figcaption></figcaption></figure>
+
+#### **5. 本地知识库系统**
+
+* **多种格式支持**：支持 PDF、DOCX、PPTX、XLSX、TXT、MD 等多种文件格式导入。
+* **多种数据源支持**：支持本地文件、网址、站点地图甚至手动输入内容作为知识库源。
+* **知识库导出**：支持将处理好的知识库导出并分享给他人使用。
+* **支持搜索检查**：知识库导入后，用户可实时检索测试，查看处理结果和分段效果。
+
+<figure><img src=".gitbook/assets/docs-readme-10.png" alt=""><figcaption></figcaption></figure>
+
+#### **6. 特色聚焦功能**
+
+* **快捷问答**：在任何场景（如微信、浏览器）中呼出快捷助手，快速获取答案。
+* **快捷翻译**：支持快速翻译其他场景中的词汇或文本。
+* **内容总结**：对长文本内容进行快速总结，提升信息提取效率。
+* **解释说明**：无需复杂提示词，一键解释说明不懂的问题。
+
+<figure><img src=".gitbook/assets/docs-readme-11.png" alt=""><figcaption></figcaption></figure>
+
+#### **7. 数据保障**
+
+* **多种备份方案**：支持本地备份、WebDAV 备份和定时备份，确保数据安全。
+* **数据安全**：支持全本地场景使用，结合本地大模型，避免数据泄漏风险。
+
+***
+
+### **项目优势**
+
+1. **小白友好**：CherryStudio 致力于降低技术门槛，零基础用户也能快速上手，让用户专注于工作、学习或者创作。
+2. **文档完善**：提供详细的使用文档和常见问题处理手册，帮助用户快速解决问题。
+3. **持续迭代**：项目团队积极响应用户反馈，持续优化功能，确保项目健康发展。
+4. **开源与扩展性**：支持用户通过开源代码进行定制和扩展，满足个性化需求。
+
+***
+
+### **适用场景**
+
+* **知识管理与查询**：通过本地知识库功能，快速构建和查询专属知识库，适用于研究、教育等领域。
+* **多模型对话与创作**：支持多模型同时对话，帮助用户快速获取信息或生成内容。
+* **翻译与办公自动化**：内置翻译助手和文件处理功能，适合需要跨语言交流或文档处理的用户。
+* **AI 绘画与设计**：通过自然语言描述生成图像，满足创意设计需求。
 
 ### StarHistory
 
