@@ -2,15 +2,13 @@
 icon: square-info
 ---
 
-# 嵌入模型参考消息
+# 嵌入模型参考信息
 
 {% hint style="info" %}
-为了防止出错，在本文档中部分模型的max input的值没有写成极限值，如：在官方给出的最大输入值为8k（未明确给出具体数值）时，本文档中给出的参考值为8191或8000等。
+为了防止出错，在本文档中部分模型的max input的值没有写成极限值，如：在官方给出的最大输入值为8k（未明确给出具体数值）时，本文档中给出的参考值为8191或8000等。（看不懂忽视，按照文档中的参考值填写即可）
 {% endhint %}
 
 火山-豆包（[官方模型信息参考地址](https://console.volcengine.com/ark/region:ark+cn-beijing/model?feature=\&projectName=default\&vendor=Bytedance\&view=LIST_VIEW)）
-
-
 
 | 名称                      | max input |
 | ----------------------- | --------- |
