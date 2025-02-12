@@ -92,7 +92,7 @@ Jina （[官方模型信息参考地址](https://jina.ai/models/jina-embedding-b
 | jina-colbert-v2                    | 8191      |
 | jina-embeddings-v3                 | 8191      |
 
-硅基流动
+硅基流动（[官方模型信息参考地址](https://siliconflow.cn/zh-cn/models)）
 
 | 名称                                    | max input |
 | ------------------------------------- | --------- |
