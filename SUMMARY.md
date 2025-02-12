@@ -39,6 +39,7 @@
 
 * [知识库教程](knowledge-base/knowledge-base.md)
 * [知识库数据](knowledge-base/zhi-shi-ku-shu-ju.md)
+* [嵌入模型参考消息](knowledge-base/emb-models-info.md)
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
