@@ -7,6 +7,12 @@ description: Windows 版本安装教程
 
 ## 打开官方网站
 
+{% hint style="info" %}
+注意：Window 7系统不支持安装CherryStudio。
+{% endhint %}
+
+
+
 点击下载选择合适的版本
 
 {% embed url="https://cherry-ai.com" %}

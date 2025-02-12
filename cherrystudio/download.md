@@ -8,6 +8,12 @@ icon: desktop-arrow-down
 
 ### Windows 版本:
 
+{% hint style="info" %}
+注意:Window 7系统不支持安装CherryStudio。
+{% endhint %}
+
+
+
 * [Windows 便携版 (Portable)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-portable.exe)
 * [Windows 安装版 (Setup)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-setup.exe)
 
