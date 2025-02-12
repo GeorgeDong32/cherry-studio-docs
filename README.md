@@ -10,6 +10,12 @@ icon: cherries
 
 加入我们的社群：[QQ群（1022779719）](https://qm.qq.com/q/1gPXyAxk0e)、[Telegram](https://t.me/CherryStudioAI)、[discord](https://discord.gg/wez8HtpxqQ)、[微信群](https://work.weixin.qq.com/kfid/kfcc97e12e8bd14887c)
 
+***
+
+***
+
+
+
 CherryStudio 是一款集多模型对话、知识库管理、AI 绘画、翻译等功能于一体的全能 AI 助手平台。 CherryStudio的高度自定义的设计、强大的扩展能力和友好的用户体验，使其成为专业用户和 AI 爱好者的理想选择。无论是零基础用户还是开发者，都能在 CherryStudio 中找到适合自己的AI功能，提升工作效率和创造力。
 
 
