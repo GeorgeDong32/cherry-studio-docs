@@ -54,8 +54,8 @@
 |       46 |              48 | Qwen2.5-Coder-32B-Instruct          | 1217 | +8/-8   | 5,730   | Alibaba                |
 |       47 |              43 | Gemma-2-27B-it                      | 1220 | +3/-3   | 73,168  | Google                 |
 |       47 |              56 | Amazon Nova Lite 1.0                | 1219 | +5/-6   | 11,563  | Amazon                 |
-|       47 |              43 | Gemma-2-9B-it-SimPO                 | 1216 | +5/-6   | 10,551  | Princeton              |
 |       47 |              44 | Command R+ (08-2024)                | 1215 | +5/-5   | 10,541  | Cohere                 |
+|       47 |              43 | Gemma-2-9B-it-SimPO                 | 1216 | +5/-6   | 10,551  | Princeton              |
 |       47 |              56 | Phi-4                               | 1211 | +7/-10  | 4,039   | Microsoft              |
 |       47 |              40 | Llama-3.1-Nemotron-51B-Instruct     | 1211 | +8/-10  | 3,898   | Nvidia                 |
 |       49 |              58 | Gemini-1.5-Flash-8B-001             | 1212 | +4/-3   | 36,856  | Google                 |
@@ -143,8 +143,8 @@
 |      131 |             120 | Vicuna-13B                          | 1042 | +4/-4   | 19,786  | LMSYS                  |
 |      131 |             126 | Gemma-7B-it                         | 1037 | +7/-5   | 9,174   | Google                 |
 |      131 |             127 | Phi-3-Mini-128k-Instruct            | 1037 | +5/-4   | 21,627  | Microsoft              |
-|      131 |             143 | Llama-2-7B-chat                     | 1037 | +4/-5   | 14,553  | Meta                   |
 |      131 |             120 | Qwen-14B-Chat                       | 1035 | +8/-7   | 5,072   | Alibaba                |
+|      131 |             143 | Llama-2-7B-chat                     | 1037 | +4/-5   | 14,553  | Meta                   |
 |      131 |             129 | Guanaco-33B                         | 1033 | +10/-8  | 3,000   | UW                     |
 |      140 |             132 | Gemma-1.1-2b-it                     | 1021 | +5/-7   | 11,346  | Google                 |
 |      140 |             136 | StripedHyena-Nous-7B                | 1017 | +7/-8   | 5,271   | Together AI            |
