@@ -20,3 +20,13 @@ description: macOS 版本安装教程
 安装完成
 
 <figure><img src="../../.gitbook/assets/2024-07-30-14-13-10.webp" alt=""><figcaption></figcaption></figure>
+
+### 如何确认下载什么版本?
+
+* 点击Mac左上角菜单栏Apple logo
+* 在展开菜单中点击关于本机
+* 在弹出窗口中查看处理器信息
+
+如果为Intel芯片则下载Intel版本安装包
+
+如果为Apple M\*芯片则下载Apple芯片安装包
