@@ -8,7 +8,9 @@ icon: square-info
 为了防止出错，在本文档中部分模型的max input的值没有写成极限值，如：在官方给出的最大输入值为8k（未明确给出具体数值）时，本文档中给出的参考值为8191或8000等。（看不懂忽视，按照文档中的参考值填写即可）
 {% endhint %}
 
-火山-豆包（[官方模型信息参考地址](https://console.volcengine.com/ark/region:ark+cn-beijing/model?feature=\&projectName=default\&vendor=Bytedance\&view=LIST_VIEW)）
+### 火山-豆包
+
+[官方模型信息参考地址](https://console.volcengine.com/ark/region:ark+cn-beijing/model?feature=\&projectName=default\&vendor=Bytedance\&view=LIST_VIEW)
 
 | 名称                      | max input |
 | ----------------------- | --------- |
@@ -16,7 +18,9 @@ icon: square-info
 | Doubao-embedding-vision | 8191      |
 | Doubao-embedding-large  | 4095      |
 
-阿里（[官方模型信息参考地址](https://help.aliyun.com/zh/model-studio/user-guide/embedding?spm=a2c4g.11186623.0.i1)）
+### 阿里
+
+[官方模型信息参考地址](https://help.aliyun.com/zh/model-studio/user-guide/embedding?spm=a2c4g.11186623.0.i1)
 
 | 名称                      | max input |
 | ----------------------- | --------- |
@@ -26,7 +30,9 @@ icon: square-info
 | text-embedding-async-v2 | 2048      |
 | text-embedding-async-v1 | 2048      |
 
-OpenAI （[官方模型信息参考地址](https://platform.openai.com/docs/guides/embeddings#embedding-models)）
+### OpenAI&#x20;
+
+[官方模型信息参考地址](https://platform.openai.com/docs/guides/embeddings#embedding-models)
 
 | 名称                     | max input |
 | ---------------------- | --------- |
@@ -34,33 +40,43 @@ OpenAI （[官方模型信息参考地址](https://platform.openai.com/docs/guid
 | text-embedding-3-large | 8191      |
 | text-embedding-ada-002 | 8191      |
 
-百度（[官方模型信息参考地址](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/om6070n97#%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0)）
+### 百度
+
+[官方模型信息参考地址](https://cloud.baidu.com/doc/WENXINWORKSHOP/s/om6070n97#%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0)
 
 | 名称           | max input |
 | ------------ | --------- |
 | Embedding-V1 | 384       |
 | tao-8k       | 8192      |
 
-智谱 （[官方模型信息参考地址](https://bigmodel.cn/console/modelcenter/square)）
+### 智谱
+
+[官方模型信息参考地址](https://bigmodel.cn/console/modelcenter/square)
 
 | 名称          | max input |
 | ----------- | --------- |
 | embedding-2 | 1024      |
 | embedding-3 | 2048      |
 
-混元 （[官方模型信息参考地址](https://cloud.tencent.com/document/product/1729/102832)）
+### 混元
+
+[官方模型信息参考地址](https://cloud.tencent.com/document/product/1729/102832)
 
 | 名称                | max input |
 | ----------------- | --------- |
 | hunyuan-embedding | 1024      |
 
-百川（[官方模型信息参考地址](https://platform.baichuan-ai.com/docs/text-Embedding)）
+### 百川
+
+[官方模型信息参考地址](https://platform.baichuan-ai.com/docs/text-Embedding)
 
 | 名称                      | max input |
 | ----------------------- | --------- |
 | Baichuan-Text-Embedding | 512       |
 
-together （[官方模型信息参考地址](https://docs.together.ai/docs/serverless-models#embedding-models)）
+### together
+
+[官方模型信息参考地址](https://docs.together.ai/docs/serverless-models#embedding-models)
 
 | 名称                        | max input |
 | ------------------------- | --------- |
@@ -71,7 +87,9 @@ together （[官方模型信息参考地址](https://docs.together.ai/docs/serve
 | BGE-Large-EN-v1.5         | 512       |
 | BGE-Base-EN-v1.5          | 512       |
 
-Jina （[官方模型信息参考地址](https://jina.ai/models/jina-embedding-b-en-v1)）
+### Jina&#x20;
+
+[官方模型信息参考地址](https://jina.ai/models/jina-embedding-b-en-v1)
 
 | 名称                                 | max input |
 | ---------------------------------- | --------- |
@@ -92,7 +110,9 @@ Jina （[官方模型信息参考地址](https://jina.ai/models/jina-embedding-b
 | jina-colbert-v2                    | 8191      |
 | jina-embeddings-v3                 | 8191      |
 
-硅基流动（[官方模型信息参考地址](https://siliconflow.cn/zh-cn/models)）
+### 硅基流动
+
+[官方模型信息参考地址](https://siliconflow.cn/zh-cn/models)
 
 | 名称                                    | max input |
 | ------------------------------------- | --------- |
@@ -102,13 +122,17 @@ Jina （[官方模型信息参考地址](https://jina.ai/models/jina-embedding-b
 | BAAI/bge-large-en-v1.5                | 512       |
 | Pro/BAAI/bge-m3                       | 8191      |
 
-Gemini （[官方模型信息参考地址](https://ai.google.dev/gemini-api/docs/models/gemini?hl=zh-cn#text-embedding)）
+### Gemini
+
+[官方模型信息参考地址](https://ai.google.dev/gemini-api/docs/models/gemini?hl=zh-cn#text-embedding)
 
 | 名称                 | max input |
 | ------------------ | --------- |
 | text-embedding-004 | 2048      |
 
-nomic （[官方模型信息参考地址](https://docs.nomic.ai/atlas/embeddings-and-retrieval/text-embedding)）
+### nomic
+
+[官方模型信息参考地址](https://docs.nomic.ai/atlas/embeddings-and-retrieval/text-embedding)
 
 | 名称                    | max input |
 | --------------------- | --------- |
@@ -116,14 +140,18 @@ nomic （[官方模型信息参考地址](https://docs.nomic.ai/atlas/embeddings
 | nomic-embed-text-v1.5 | 8192      |
 | gte-multilingual-base | 8192      |
 
-console（[官方模型信息参考地址](https://console.upstage.ai/docs/capabilities/embeddings)）
+### console
+
+[官方模型信息参考地址](https://console.upstage.ai/docs/capabilities/embeddings)
 
 | 名称                | max input |
 | ----------------- | --------- |
 | embedding-query   | 4000      |
 | embedding-passage | 4000      |
 
-cohere （[官方模型信息参考地址](https://docs.cohere.com/docs/models#embed)）
+### cohere
+
+[官方模型信息参考地址](https://docs.cohere.com/docs/models#embed)
 
 | 名称                            | max input |
 | ----------------------------- | --------- |
@@ -134,3 +162,4 @@ cohere （[官方模型信息参考地址](https://docs.cohere.com/docs/models#e
 | embed-english-v2.0            | 512       |
 | embed-english-light-v2.0      | 512       |
 | embed-multilingual-v2.0       | 256       |
+
