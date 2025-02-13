@@ -30,4 +30,4 @@ icon: file-code
 
 ### 相关推荐
 
-分享一些中国风 Cherry Studio 主题皮肤: [https://linux.do/t/topic/325119/95](https://linux.do/t/topic/325119/95)
+分享一些中国风 Cherry Studio 主题皮肤: [https://linux.do/t/topic/325119/129](https://linux.do/t/topic/325119/129)
