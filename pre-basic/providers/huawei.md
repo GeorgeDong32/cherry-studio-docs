@@ -56,6 +56,12 @@
 
 为什么加“#”号[看这里](https://docs.cherry-ai.com/cherrystudio/preview/settings/providers#api-di-zhi)
 
+> 当然也可以不看那里，直接按照教程操作即可；
+>
+> 也可以使用删除v1/chat/completions的方法填写，只要会填按照自己方法怎么填都行，不会填务必按照教程操作。
+
+
+
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 然后把②处模型名称复制，到CherryStudio当中点“+添加”按钮新建模型
