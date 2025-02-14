@@ -34,6 +34,7 @@
   * [OneAPI及其分支项目](pre-basic/providers/oneapi/README.md)
     * [OneAPI](pre-basic/providers/oneapi/oneapi.md)
     * [NewAPI](pre-basic/providers/oneapi/newapi.md)
+  * [华为云](pre-basic/providers/huawei.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 

@@ -20,16 +20,16 @@
 * 点击`+添加模型`按钮
 * ① 选择模型、② 选择版本（主线模型）、③ 确认
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 点击`确认接入`
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="301"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="301"><figcaption></figcaption></figure>
 
 * 打开CherryStudio的[模型服务](../../cherrystudio/preview/settings/providers.md)设置找到豆包
 * 点击添加模型
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>接入点名称下的ep-xxxxxx即模型ID,模型名称建议填接入模型的名称</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>接入点名称下的ep-xxxxxx即模型ID,模型名称建议填接入模型的名称</p></figcaption></figure>
 
 * 按照此流程依次添加模型
 
@@ -63,4 +63,4 @@ API地址有两种写法
 关于`/`和`#`结尾的区别参考文档服务商设置的API地址部分，[点击前往](https://docs.cherry-ai.com/cherry-studio/cherrystudio/preview/settings/providers#api-di-zhi)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>官方文档cURL示例</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>官方文档cURL示例</p></figcaption></figure>

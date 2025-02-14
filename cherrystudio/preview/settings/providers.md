@@ -41,7 +41,7 @@ sk-xxxx1,sk-xxxx2,sk-xxxx3,sk-xxxx4
 * API地址使用"`/`"结尾时只拼接"<mark style="background-color:green;">chat/completions</mark>"
 * API地址使用"`#`"结尾时不执行拼接操作，只使用填入的地址。
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)![](<../../../.gitbook/assets/image (15).png>)
 {% endhint %}
 
 
