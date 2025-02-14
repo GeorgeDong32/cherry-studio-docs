@@ -14,18 +14,18 @@ icon: desktop-arrow-down
 
 
 
-* [Windows 便携版 (Portable)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-portable.exe)
-* [Windows 安装版 (Setup)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-setup.exe)
+* [Windows 便携版 (Portable)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.23-portable.exe)
+* [Windows 安装版 (Setup)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.23-setup.exe)
 
 ### macOS 版本:
 
-* [macOS Intel 版 (x64)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-x64.dmg)
-* [macOS Apple Silicon 版 (ARM64)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-arm64.dmg)
+* [macOS Intel 版 (x64)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.23-x64.dmg)
+* [macOS Apple Silicon 版 (ARM64)](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.23-arm64.dmg)
 
 ### Linux 版本:
 
-* [Linux x86\_64 版本](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-x86_64.AppImage)
-* [Linux ARM64 版本](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.21-arm64.AppImage)
+* [Linux x86\_64 版本](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.23-x86_64.AppImage)
+* [Linux ARM64 版本](https://cherrystudio.ocoolai.com/Cherry-Studio-0.9.23-arm64.AppImage)
 
 ## 网盘下载
 
