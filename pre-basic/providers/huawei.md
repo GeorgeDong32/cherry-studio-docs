@@ -54,7 +54,7 @@
 
 并在结尾加上“#”号
 
-为什么加“#”号看这里
+为什么加“#”号[看这里](https://docs.cherry-ai.com/cherrystudio/preview/settings/providers#api-di-zhi)
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
