@@ -49,6 +49,7 @@
   * [字体推荐](advanced-basic/personalization/font.md)
   * [修改存储位置](advanced-basic/personalization/xiu-gai-cun-chu-wei-zhi.md)
 * [联网模型](advanced-basic/lian-wang-mo-xing.md)
+* [notion配置教程](advanced-basic/notion.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 
