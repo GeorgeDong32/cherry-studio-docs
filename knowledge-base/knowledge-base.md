@@ -6,7 +6,7 @@ icon: book-open-cover
 
 知识库教程
 
-在 0.91 版本中，CherryStudio 带来了期待已久的知识库功能。
+在 0.9.1 版本中，CherryStudio 带来了期待已久的知识库功能。
 
 下面我们将按步骤呈现 CherryStudio 的详细使用说明。
 
