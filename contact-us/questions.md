@@ -8,6 +8,10 @@ icon: address-card
 
 📮：yinsenho@cherry-ai.com
 
-📱：18954281942
+📱：18954281942 (非客服电话)
 
-（非客服电话，使用问题咨询请邮件support@cherry-ai.com或提交 issues：[https://github.com/CherryHQ/cherry-studio/issues](https://github.com/CherryHQ/cherry-studio/issues)）
+{% hint style="warning" %}
+使用问题咨询请邮件 support@cherry-ai.com
+
+或提交 issues：[https://github.com/CherryHQ/cherry-studio/issues](https://github.com/CherryHQ/cherry-studio/issues)）
+{% endhint %}
