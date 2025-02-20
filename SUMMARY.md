@@ -65,7 +65,7 @@
 
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
-* [商务合作](contact-us/questions/README.md)
+* [商务合作](contact-us/questions.md)
   * [CherryStudio 许可协议](contact-us/questions/cherrystudio-xu-ke-xie-yi.md)
 
 ## 其他内容 <a href="#other" id="other"></a>
