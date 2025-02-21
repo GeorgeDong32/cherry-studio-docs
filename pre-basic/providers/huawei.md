@@ -30,7 +30,7 @@
 
 然后在CherryStudio里创建新服务商
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="300"><figcaption></figcaption></figure>
 
 创建完成后填入秘钥
 
@@ -42,7 +42,7 @@
 
 六、点击调用
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 把①处的地址复制，粘贴到CherryStudio的服务商地址当中并在结尾加上“#”号
 
