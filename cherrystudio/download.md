@@ -22,6 +22,10 @@ icon: desktop-arrow-down
 
 【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】
 
+
+
+
+
 * Windows 便携版 (Portable)
 
 主线路（GitHub）：
@@ -31,6 +35,10 @@ icon: desktop-arrow-down
 备用线路：
 
 【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-portable.exe)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-portable.exe)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-portable.exe)】
+
+***
+
+
 
 ### macOS 版本:
 
@@ -44,6 +52,10 @@ icon: desktop-arrow-down
 
 【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】
 
+
+
+
+
 * macOS Apple Silicon 版 (ARM64-M系列芯片)
 
 主线路（GitHub）：
@@ -53,6 +65,10 @@ icon: desktop-arrow-down
 备用线路：
 
 【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-arm64.dmg)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-arm64.dmg)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-arm64.dmg)】
+
+***
+
+
 
 ### Linux 版本:
 
@@ -65,6 +81,10 @@ icon: desktop-arrow-down
 备用线路：
 
 【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x86_64.AppImage)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x86_64.AppImage)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x86_64.AppImage)】
+
+
+
+
 
 * Linux ARM64 版本
 
