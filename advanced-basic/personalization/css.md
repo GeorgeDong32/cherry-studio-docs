@@ -26,7 +26,7 @@ icon: file-code
 
 ### 内置变量
 
-[https://github.com/CherryHQ/cherry-studio/tree/develop/src/renderer/src/assets/styles](https://github.com/CherryHQ/cherry-studio/tree/develop/src/renderer/src/assets/styles)
+[https://github.com/CherryHQ/cherry-studio/tree/main/src/renderer/src/assets/styles](https://github.com/CherryHQ/cherry-studio/tree/main/src/renderer/src/assets/styles)
 
 ### 相关推荐
 

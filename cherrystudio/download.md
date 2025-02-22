@@ -20,7 +20,7 @@ icon: desktop-arrow-down
 
 备用线路：
 
-【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-x64.dmg)】
+【[线路1](https://download-cf.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-setup.exe)】    【[线路2](https://download.ocoolai.com/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-setup.exe)】   【[线路3](https://download.ocoolai.online/https://github.com/CherryHQ/cherry-studio/releases/download/v0.9.27/Cherry-Studio-0.9.27-setup.exe)】
 
 
 
@@ -101,6 +101,9 @@ icon: desktop-arrow-down
 
 
 ## 网盘下载
+{% hint style="warning" %}
+无法保持最新，建议使用上方链接。
+{% endhint %}
 
 123盘:[https://www.123865.com/s/oAHxjv-VkMiH](https://www.123865.com/s/oAHxjv-VkMiH)
 

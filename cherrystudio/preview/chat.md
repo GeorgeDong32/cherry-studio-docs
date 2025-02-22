@@ -92,7 +92,7 @@ icon: message
 
 #### <mark style="color:blue;">**`代码风格`**</mark>：
 
-#### 可切换代码片段的显示风格。
+可切换代码片段的显示风格。
 
 
 
@@ -257,11 +257,11 @@ icon: message
 
 #### <mark style="color:blue;">**`开启消息长度限制(MaxToken)`**</mark>
 
-单次回答最大[Token](https://docs.cherry-ai.com/cherrystudio/question-contact/knowledge#shen-me-shi-tokens)数,在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。具体设置多少取决于自己的需要，当然也可以参考以下建议。
+单次回答最大[Token](https://docs.cherry-ai.com/question-contact/knowledge#shen-me-shi-tokens)数,在大语言模型中，max token（最大令牌数）是一个关键参数，它直接影响模型生成回答的质量和长度。具体设置多少取决于自己的需要，当然也可以参考以下建议。
 
 > &#x20;如:在CherryStudio当中填写好key后测试模型是否连通时，只需要知道模型是否有正确返回消息而不需特定内容,这种情况下设置MaxToken为1即可。
 
-多数模型的MaxToken上限为4k Tokens，当然也有2k也有16k甚至更多的，具体需要到对应介绍页面查看。
+多数模型的MaxToken上限为4k Tokens，当然也有2k、16k甚至更多的，具体需要到对应介绍页面查看。
 
 {% hint style="success" %}
 建议：
