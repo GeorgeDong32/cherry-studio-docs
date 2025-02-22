@@ -30,7 +30,7 @@
 
 然后在CherryStudio里创建新服务商
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt="" width="300"><figcaption></figcaption></figure>
 
 创建完成后填入秘钥
 
@@ -42,7 +42,7 @@
 
 六、点击调用
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 把①处的地址复制，粘贴到CherryStudio的服务商地址当中并在结尾加上“#”号
 
@@ -62,15 +62,15 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 然后把②处模型名称复制，到CherryStudio当中点“+添加”按钮新建模型
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 输入模型名称，不要添油加醋，不要带引号，示例当中怎么写就怎么抄。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 点击添加模型按钮即可添加完成。
 

@@ -36,6 +36,7 @@
     * [OneAPI](pre-basic/providers/oneapi/oneapi.md)
     * [NewAPI](pre-basic/providers/oneapi/newapi.md)
   * [华为云](pre-basic/providers/huawei.md)
+  * [Google Gemini](pre-basic/providers/google-gemini.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
