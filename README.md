@@ -120,7 +120,7 @@ CherryStudio 是一款集多模型对话、知识库管理、AI 绘画、翻译�
 
 ### StarHistory
 
-![图片](https://urlscan.io/liveshot/?width=1300\&height=620\&url=https://cherrystarhistory.ocool.online/)
+![图片](https://urlscan.io/liveshot/?width=1300&height=620&url=https://cherrystarhistory.ocool.online/)
 
 ## 关注我们的社交账号
 
