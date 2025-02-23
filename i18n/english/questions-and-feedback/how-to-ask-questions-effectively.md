@@ -12,11 +12,11 @@ CherryStudio is a free and open source project. As the project grows, the worklo
 
 Most of the basics can be solved by consulting the documentation.
 
-* The features and usage issues of the software can be checked in the [Feature Introduction](../cherrystudio/preview/) document.
+* The features and usage issues of the software can be checked in the [feature introduction](../cherrystudio/preview/) documen&#x74;_._
 * Frequently asked questions will be included on the [FAQ](faq.md) page. You can first check the FAQ page to see if there is a solution.
-* Complex problems can be solved directly through searching;
+* Complex problems can be solved directly through searching or by asking questions in the search box;
 * Be sure to carefully read the content of the hint boxes in each document, which can help you avoid many problems.
-* Check or search the [GitHub Issue](https://github.com/CherryHQ/cherry-studio/issues) page for similar problems and solutions.
+* Check or search for similar issues and solutions on [GitHub's Issue page](https://github.com/CherryHQ/cherry-studio/issues).
 
 
 
@@ -40,4 +40,10 @@ Request document or provide document suggestions
 
 You can contact the Telegram channel `@Wangmouuu` or QQ (`1355873789`), or you can send an email to: `sunrise@cherry-ai.com`
 {% endhint %}
+
+
+
+## 2. Search on web & Ask AI
+
+
 
