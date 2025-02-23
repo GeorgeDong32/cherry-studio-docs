@@ -11,7 +11,7 @@ icon: browsers
 1. **Open Settings:** Navigate to `Settings` -> `Quick Assistant`.
 2. **Turn on the switch:** Find and click the "Quick Assistant" enable button.
 
-<figure><img src="../.gitbook/assets/快捷助手-0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/快捷助手-0.png" alt=""><figcaption></figcaption></figure>
 
 1. **Set Shortcut Key (Optional):**
    * The default shortcut key is <kbd>Ctrl</kbd>+ <kbd>E</kbd>.
@@ -29,7 +29,7 @@ icon: browsers
 
 
 
-    <figure><img src="../.gitbook/assets/快捷助手-1.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/快捷助手-1.png" alt=""><figcaption></figcaption></figure>
 3. **Close:** Press the <kbd>ESC</kbd> key or click anywhere outside the Quick Assistant window to close it.
 
 ### Set Default Model
@@ -38,7 +38,7 @@ You can specify a default AI model for Quick Assistant to get a more consistent 
 
 1. **Open Settings:** Navigate to `Settings` -> `Default Model` -> `Default Assistant Model`.
 
-<figure><img src="../.gitbook/assets/快捷助手-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/快捷助手-2.png" alt=""><figcaption></figcaption></figure>
 
 1. **Select Model:** Select the model you want to use from the dropdown list.
 

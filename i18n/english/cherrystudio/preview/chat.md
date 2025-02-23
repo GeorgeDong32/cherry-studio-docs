@@ -16,13 +16,13 @@ icon: message
 
 <mark style="background-color:yellow;">Assistants</mark> are parent sets of <mark style="background-color:yellow;">Topics</mark>. Multiple topics (i.e., dialogues) can be created under a single assistant. All `topics` share the `assistant's` parameter settings and preset words (prompts), and other model settings.
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Chat Settings
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Model Settings
 
@@ -40,11 +40,11 @@ Use a separator line to separate the message body from the operation bar.
 
 {% tabs %}
 {% tab title="On" %}
-<figure><img src="../.gitbook/assets/message-separator-line-on.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/message-separator-line-on.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Off" %}
-<figure><img src="../.gitbook/assets/message-separator-line-off.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/message-separator-line-off.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -58,11 +58,11 @@ Displays line numbers for code blocks when the model outputs code snippets.
 
 {% tabs %}
 {% tab title="Off" %}
-<figure><img src="../.gitbook/assets/show-line-numbers-for-code-off.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/show-line-numbers-for-code-off.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="On" %}
-<figure><img src="../.gitbook/assets/show-line-numbers-for-code-on.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/show-line-numbers-for-code-on.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -103,11 +103,11 @@ When turned off, only the messages replied by the model are rendered, and the se
 
 {% tabs %}
 {% tab title="Off" %}
-<figure><img src="../.gitbook/assets/markdown-render-input-messages-off.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/markdown-render-input-messages-off.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="On" %}
-<figure><img src="../.gitbook/assets/markdown-render-input-messages-on.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/markdown-render-input-messages-on.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
