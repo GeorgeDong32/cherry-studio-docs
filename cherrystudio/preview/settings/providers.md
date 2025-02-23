@@ -19,9 +19,8 @@ icon: cloud-check
 
 * 多Key用<mark style="color:red;">英文</mark>逗号隔开添加。如以下示例方式：
 
-```
-sk-xxxx1,sk-xxxx2,sk-xxxx3,sk-xxxx4
-```
+<pre><code><strong>sk-xxxx1,sk-xxxx2,sk-xxxx3,sk-xxxx4
+</strong></code></pre>
 
 
 
