@@ -28,6 +28,7 @@
   * [Windows](pre-basic/installation/windows.md)
   * [MacOS](pre-basic/installation/macos.md)
 * [服务商配置](pre-basic/providers/README.md)
+  * [阿里云百炼](pre-basic/providers/a-li-yun-bai-lian.md)
   * [硅基流动](pre-basic/providers/siliconcloud.md)
   * [OpenAI](pre-basic/providers/openai.md)
   * [QwenLM](pre-basic/providers/qwenlm.md)
