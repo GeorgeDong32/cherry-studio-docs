@@ -46,5 +46,6 @@
 
 ## Questions & Feedback
 
-* [Common Problems](questions-and-feedback/common-problems.md)
+* [FAQ](questions-and-feedback/faq.md)
 * [How to Ask Questions Effectively](questions-and-feedback/how-to-ask-questions-effectively.md)
+* [General Knowledge](questions-and-feedback/general-knowledge.md)

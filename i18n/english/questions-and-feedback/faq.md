@@ -1,22 +1,22 @@
 ---
-description: Problems
 icon: seal-question
+description: Problems
 ---
 
-# Common Problems
+# FAQ
 
 ## Common Error Codes
 
 * **4xx (client error status code)**: Generally indicate that the request cannot be completed because of request syntax error, authentication failure, or authentication failure.
 * **5xx (server error status code)**: generally server-side errors, server downtime, request processing timeout, etc.
 
-<table><thead><tr><th>Error Status Code</th><th width="249">Possible Scenarios</th><th>Solution</th></tr></thead><tbody><tr><td>400</td><td>Wrong request format, etc.</td><td>Check the contents of the error returned by the dialog or <a href="common-problems.md#how-to-view-console-errors">the console</a> to see what is reported as an error, and follow the prompts.<br><mark style="color:purple;"><strong>[Common Case 1]</strong></mark>: If it is a <strong>Gemini</strong> model, you may need bind a card;<br><mark style="color:purple;"><strong>[Common Case 2]</strong></mark>: Data volume exceeds the limit. Commonly in <strong>Visual Models</strong>, the image volume exceeds the upper limit of the upstream single request traffic will return the error code;<br><mark style="color:purple;"><strong>[Common Case 3]</strong></mark>: Add unsupported parameters or fill in the parameters incorrectly. Try to create a new pure assistant to test whether it is normal;<br><mark style="color:purple;"><strong>[Common Scenario 4]</strong></mark>: Context exceeds the limit, clear the context or create a new dialog or reduce the number of context entries.</td></tr><tr><td>401</td><td>Authentication failed: Model not supported or the server account is banned, etc.</td><td>Contact or check the status of the corresponding service provider's account</td></tr><tr><td>403</td><td>Operation not authorized</td><td>Act according to the error messages returned by the dialog or <a href="common-problems.md#how-to-view-console-errors">the console</a> error message prompts.</td></tr><tr><td>404</td><td>Resource not found</td><td>Checking request paths, etc.</td></tr><tr><td>429</td><td>Request rate limit reached</td><td>Request rate (TPM or RPM) has reached the limit, please try again after a while.</td></tr><tr><td>500</td><td>Internal server error, unable to complete request</td><td>Contact upstream service provider if persistent</td></tr><tr><td>501</td><td>The server does not support the requested function and cannot complete the request</td><td></td></tr><tr><td>502</td><td>A server working as a gateway or proxy receives an invalid response from a remote server when it tries to execute a request</td><td></td></tr><tr><td>503</td><td>The server is temporarily unable to process client requests due to overload or system maintenance. The length of the delay can be included in the server's Retry-After header information</td><td></td></tr><tr><td>504</td><td>Servers acting as gateways or proxies that do not get requests from remote servers in a timely manner</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Error Status Code</th><th width="249">Possible Scenarios</th><th>Solution</th></tr></thead><tbody><tr><td>400</td><td>Wrong request format, etc.</td><td>Check the contents of the error returned by the dialog or <a href="faq.md#how-to-view-console-errors">the console</a> to see what is reported as an error, and follow the prompts.<br><mark style="color:purple;"><strong>[Common Case 1]</strong></mark>: If it is a <strong>Gemini</strong> model, you may need bind a card;<br><mark style="color:purple;"><strong>[Common Case 2]</strong></mark>: Data volume exceeds the limit. Commonly in <strong>Visual Models</strong>, the image volume exceeds the upper limit of the upstream single request traffic will return the error code;<br><mark style="color:purple;"><strong>[Common Case 3]</strong></mark>: Add unsupported parameters or fill in the parameters incorrectly. Try to create a new pure assistant to test whether it is normal;<br><mark style="color:purple;"><strong>[Common Scenario 4]</strong></mark>: Context exceeds the limit, clear the context or create a new dialog or reduce the number of context entries.</td></tr><tr><td>401</td><td>Authentication failed: Model not supported or the server account is banned, etc.</td><td>Contact or check the status of the corresponding service provider's account</td></tr><tr><td>403</td><td>Operation not authorized</td><td>Act according to the error messages returned by the dialog or <a href="faq.md#how-to-view-console-errors">the console</a> error message prompts.</td></tr><tr><td>404</td><td>Resource not found</td><td>Checking request paths, etc.</td></tr><tr><td>429</td><td>Request rate limit reached</td><td>Request rate (TPM or RPM) has reached the limit, please try again after a while.</td></tr><tr><td>500</td><td>Internal server error, unable to complete request</td><td>Contact upstream service provider if persistent</td></tr><tr><td>501</td><td>The server does not support the requested function and cannot complete the request</td><td></td></tr><tr><td>502</td><td>A server working as a gateway or proxy receives an invalid response from a remote server when it tries to execute a request</td><td></td></tr><tr><td>503</td><td>The server is temporarily unable to process client requests due to overload or system maintenance. The length of the delay can be included in the server's Retry-After header information</td><td></td></tr><tr><td>504</td><td>Servers acting as gateways or proxies that do not get requests from remote servers in a timely manner</td><td></td></tr></tbody></table>
 
 ***
 
 
 
-## How to view console errors
+## How to View Console Errors
 
 * Click on the CherryStudio client window and press the shortcut <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> (Mac: <kbd>Command</kbd>+<kbd>Option</kbd>+<kbd>I</kbd>).
 
@@ -47,7 +47,7 @@ Knowledge base creation: <mark style="color:red;">`embeddings`</mark>
 
 
 
-## Formula not rendered / formula rendering error
+## Formula Not Rendered / Formula Rendering Error
 
 * Check if the formula has delimiters when the formula code is displayed directly instead of being rendered.
 
@@ -70,7 +70,7 @@ Formula rendering error/gibberishni commonly when the formula contains Chinese(C
 
 
 
-## Failed to create knowledge base / Failed to get embedding dimensions
+## Failed to Create Knowledge Base / Failed to Get Embedding Dimensions
 
 1. Model state unavailable
 2. Non-embedding model is used
@@ -85,7 +85,7 @@ Attention:
 
 ***
 
-## Model cannot recognize images / Unable to upload or select images
+## Model Cannot Recognize Images / Unable to Upload or Select Images
 
 First, you need to confirm whether the model supports image recognition. CherryStudio categorizes popular models, and those with a small eye icon after the model name support image recognition.
 
