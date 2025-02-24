@@ -18,7 +18,7 @@ Join the Telegram discussion group for help: [https://t.me/CherryStudioAI](https
 Members of QQ group can help each other and share download links
 {% endhint %}
 
-[QQ Group (534635975)](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027\&k=mPMbCwUo40lYODSp-SUeY9ju9sSBeMbS\&authKey=Tt8SyX2p4i1Aopn2OzPwi88tc81AW%2F4m%2Fkt4ETHTPGnM6TKOXuRxKJuUMWu5Hgay\&noverify=0\&group_code=534635975)
+[QQ Group (1025067911)](https://qm.qq.com/q/hlHOddwAS)
 
 ## Github Issues
 
