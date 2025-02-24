@@ -2,13 +2,13 @@
 icon: book
 ---
 
-# notion配置教程
+# Notion配置教程
 
-Cherry Studio 支持将话题导入notion的数据库。
+Cherry Studio 支持将话题导入 Notion 的数据库。
 
 ## 准备
 
-首先你需要创建一个Notion 数据库 及 Notion Integration.并将Integration 连接至 Notion 数据库。如下图所示
+首先你需要创建一个 Notion 数据库 及 Notion Integration.并将 Integration 连接至 Notion 数据库。如下图所示
 
 {% hint style="info" %}
 注意：**数据库必须具备一个Name的字段，否则会导致导入失败**

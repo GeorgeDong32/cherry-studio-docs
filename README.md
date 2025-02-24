@@ -25,7 +25,7 @@ CherryStudio 是一款集多模型对话、知识库管理、AI 绘画、翻译�
 <figure><img src=".gitbook/assets/docs-readme-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **自动分组**：每个助手的对话记录会自动分组管理，便于用户快速查找历史对话。
-* **对话导出**：支持将完整对话导出为多种格式（如 Markdown、PDF 等），方便储存与分享。
+* **对话导出**：支持将完整对话导出为多种格式（如 Markdown、Word 等），方便储存与分享。
 * **高度自定义参数**：除了基础参数调整外，还支持用户填写自定义参数，满足个性化需求。
 
 <figure><img src=".gitbook/assets/docs-readme-2 (2).png" alt=""><figcaption></figcaption></figure>
