@@ -85,9 +85,7 @@ Alternative Download Links:
 ## Cloud Drive Download
 
 {% hint style="warning" %}
-May not be the latest version, it is recommended to use the links above.
+May not be the latest version, it is recommended to use the links below.
 {% endhint %}
 
-123 Cloud Drive: [https://www.123912.com/s/oAHxjv-kgMiH](https://www.123912.com/s/oAHxjv-kgMiH)
-
-Quark Drive: [https://pan.quark.cn/s/77eeab172658](https://pan.quark.cn/s/77eeab172658)
+Quark Drive: [https://pan.quark.cn/s/c8533a1ec63e#/list/share](https://pan.quark.cn/s/c8533a1ec63e#/list/share)
