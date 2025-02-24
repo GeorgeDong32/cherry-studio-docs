@@ -85,9 +85,8 @@ icon: desktop-arrow-down
 ## 网盘下载
 
 {% hint style="warning" %}
-无法保持最新，建议使用上方链接。
+无法保持最新，建议使用下方链接。
 {% endhint %}
 
-123盘:[https://www.123912.com/s/oAHxjv-kgMiH](https://www.123912.com/s/oAHxjv-kgMiH)
 
 夸克: [https://pan.quark.cn/s/77eeab172658](https://pan.quark.cn/s/77eeab172658)
