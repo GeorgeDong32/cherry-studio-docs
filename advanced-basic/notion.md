@@ -8,13 +8,11 @@ Cherry Studio 支持将话题导入 Notion 的数据库。
 
 ## 准备
 
-首先你需要创建一个 Notion 数据库 及 Notion Integration，并将 Integration 连接至 Notion 数据库。如下图所示
+首先你需要创建一个 Notion 数据库 及 [Notion Integration](https://www.notion.so/profile/integrations)，并将 Integration 连接至 Notion 数据库。如下图所示
 
 {% hint style="info" %}
-注意：**数据库必须具备一个 Name 的字段，否则会导致导入失败**
+注意：**数据库必须具备一个和设置中“页面标题字段名”相同的字段，默认是 Name，否则会导致导入失败**
 {% endhint %}
-
-
 
 <figure><img src="../.gitbook/assets/image_notion1.png" alt="" width="524"><figcaption></figcaption></figure>
 
@@ -29,6 +27,10 @@ Cherry Studio 支持将话题导入 Notion 的数据库。
 <mark style="color:blue;">https://www.notion.so/\<long\_hash\_1>?v=\<long\_hash\_2></mark>
 
 那么 Notion 数据库 ID 就是 `<long_hash_1>` 这部分
+
+注意这里的”页面标题字段名”需要和 Notion 数据库中的字段名**相同**，否则会导致导入失败。
+
+<figure><img src="../.gitbook/assets/image_notion6.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 使用
 
