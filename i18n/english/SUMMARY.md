@@ -43,6 +43,8 @@
   * [Custom CSS](advanced-tutorial/personalization/custom-css.md)
   * [Font Recommendations](advanced-tutorial/personalization/font-recommendations.md)
   * [Modifying Storage Location](advanced-tutorial/personalization/modifying-storage-location.md)
+* [Networking Models](advanced-tutorial/networking-models.md)
+* [Notion Configuration](advanced-tutorial/notion-configuration.md)
 
 ## Questions & Feedback
 
@@ -50,3 +52,7 @@
 * [How to Ask Questions Effectively](questions-and-feedback/how-to-ask-questions-effectively.md)
 * [General Knowledge](questions-and-feedback/general-knowledge.md)
 * [Feedback & Suggestions](questions-and-feedback/feedback-and-suggestions.md)
+
+## Contact Us
+
+* [Business Cooperation](contact-us/business-cooperation.md)
