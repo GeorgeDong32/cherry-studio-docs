@@ -13,7 +13,7 @@ icon: address-card
 {% hint style="warning" %}
 使用问题咨询请邮件 support@cherry-ai.com
 
-或提交 issues：[https://github.com/CherryHQ/cherry-studio/issues](https://github.com/CherryHQ/cherry-studio/issues)）
+或提交 issues：[https://github.com/CherryHQ/cherry-studio/issues](https://github.com/CherryHQ/cherry-studio/issues)
 {% endhint %}
 
 
