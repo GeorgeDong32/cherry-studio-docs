@@ -51,7 +51,7 @@
   * [自定义CSS](advanced-basic/personalization/css.md)
   * [字体推荐](advanced-basic/personalization/font.md)
   * [修改存储位置](advanced-basic/personalization/xiu-gai-cun-chu-wei-zhi.md)
-* [联网模型](advanced-basic/lian-wang-mo-xing/README.md)
+* [联网模式](advanced-basic/lian-wang-mo-xing/README.md)
   * [DeepSeekR1联网功能-火山引擎接入](advanced-basic/lian-wang-mo-xing/deepseekr1-lian-wang-gong-neng-huo-shan-yin-qing-jie-ru.md)
 * [Notion 配置教程](advanced-basic/notion.md)
 
