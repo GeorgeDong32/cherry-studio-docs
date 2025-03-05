@@ -14,6 +14,7 @@
   * [知识库](cherrystudio/preview/knowledge-base.md)
   * [文件](cherrystudio/preview/files.md)
   * [快捷助手](cherrystudio/preview/kuai-jie-zhu-shou.md)
+  * [MCP](cherrystudio/preview/mcp.md)
   * [设置](cherrystudio/preview/settings/README.md)
     * [服务商设置](cherrystudio/preview/settings/providers.md)
     * [默认模型设置](cherrystudio/preview/settings/default-models.md)
