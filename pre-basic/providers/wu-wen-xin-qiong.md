@@ -10,7 +10,7 @@
 
 作为知识库的"思考中枢"，无问芯穹大模型服务平台提供 DeepSeek R1 满血版等模型版本，提供稳定的 API 服务，**目前注册后，无门槛免费用。**&#x652F;持主流嵌入模型 bge、jina 模型来构建知识库，**平台也在持续更新稳定的最新、最强开源模型服务**，包含图片、视频、语音等多种不同模态。
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=NjYzMzBjYzNhYjkwMWJiZmEyNzQ5MzlhOWYxZGZmMTBfRnhtRVhZd0dIUWhndDAyekNhQUc1Wk1XcVlJUXJKOVpfVG9rZW46Q3A4bGJwaXFmb1o0YnJ4SlRJTGNZeWNIbm9lXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1280X1280 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 #### 2. Cherry Studio：零代码搭建知识库
 
@@ -24,39 +24,37 @@ Cherry Studio是一款易于使用的AI工具，相较于 RAG 知识库开发需
 1. 访问 Cherry Studio 官网下载适配版本（https://cherry-ai.com/）
 2. 注册账号：登录无问芯穹大模型服务平台 (https://cloud.infini-ai.com/genstudio/model?cherrystudio)
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=OWI2MDEwZjM5ZjNiZGEwMWIzYWY1OTk0ZmYwYThjNjJfOUxYQ2JRcUlUN2RtV1J4RWtFSlFEQ2pPQTliWVlMU1RfVG9rZW46Q2xoWGJBRjJMbzdvOXR4anJ3bmN2a3hIbjVnXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 * 获取 API 密钥：可以在「模型广场」选择deepseek-r1，点击创建并获取APIKEY，复制模型名称
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=NjA1OTMwZWZjMzBkY2M1MTllYzY5OWYwYTQyOGM1OTlfcjlDQmR4WlBDMUxDbzZuMUNiYXpCMHVmYmoxVlJOeXBfVG9rZW46UDg0VWJKTmdxb3pGVVd4QTlkaGNWaXB2bnhlXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/output (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2：打开 CherryStudio 设置，在模型服务中选择无问芯穹，填写好 API 密钥，并开启无问芯穹模型服务
+
+<figure><img src="../../.gitbook/assets/1280X1280 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 完成以上步骤，在交互时选择需要大模型，即可在 CherryStudio 中使用 无问芯穹 的 API 服务。\
 为了方便使用，这里也可以设置「默认模型」\
 
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=OWQyYTc2ZTBjOGQ1YzI4Zjg0MzhlMDc5MWNhMTVlMTNfdnUwYVdlbjVHT2xlUk9mUFRTUGFnOXpmRkRvQURhbk9fVG9rZW46UUp3VGJ6NHFBb0dIV0J4TVhmRGNGQk1FbnlzXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=YzM2NTk4MWFkODBhZmIxNjNkY2VmYzQ5NmFkZThlMzJfcDBQdUVuUXk4VjVXaG9UMUFNdHNvMGhwd01XbWdESnJfVG9rZW46T2VIV2JwWHZvb2owcEV4NGh1VWNDenhHbmhmXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=Nzg4NDY5NTcxNDk2NGQyYThhOGFhODUzMzdkNjA1ZjlfY3VvNnRCNXRzMEx5d0VIanNDQzduOWYxYk5kWE4xRDdfVG9rZW46WmE4cWI3eVpQbzBjZUN4VUNDMWNwaVp4bjU4XzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/01445ab7-b863-4155-b517-2b6c3c581f47.png" alt=""><figcaption></figcaption></figure>
 
 Step 3：添加知识库
 
 选择无问芯穹大模型服务平台的嵌入模型 bge系列或 jina 系列模型任一版本
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=NjA2NWY0OGU5MjNjN2JmMWE1ZDA2ODJlYjdiYTIzYmZfZnVNUmZHcFlnRnpudEJFVEcxZGl3bURWQ0FXNDcycGJfVG9rZW46SHJZQ2JnUUxYb0hjRGJ4UFYwd2NjUVVHblZnXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=NTdlMzgyOGYxNDY3ZDZlYzU0NTA0YWU4ZmRhNDkwODNfUkU0R1p6RnBhWXZMdXlCcE1pc0s4ZzVGU1RpallwRk9fVG9rZW46QjFqMWJnbVlXb1I5ZDR4anppQmNvR2xybjhXXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 三、真实用户场景实测
 
 * 导入学习资料后，输入"梳理《机器学习》第三章核心公式推导"
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=Yjg4OTY5OWI2ZTU2YjE0OTA5M2M0NmE2NTczYjc3NmVfQUx5OFJlZ1dBaEN4V3U0Z1NGQW1zYkpOaU5EM0pCNGRfVG9rZW46UkZIVmJqV1M1b3lSVXB4QVh4ZWNRZGlZbkliXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6bbdbd0d-5db4-4440-b840-3bb3f422b831.gif" alt=""><figcaption></figcaption></figure>
 
 \
 **附生成结果图**
 
-<figure><img src="https://infinigence.feishu.cn/space/api/box/stream/download/asynccode/?code=YTBmZWVhM2NkNmFhODc1ZGZkMjhhZjQzYzg4NjZjMDdfalo4dlZldTBDVzZqaEZWUVBvQk9Eb2V0UlNPZlJ4YnhfVG9rZW46R1VTRmJMSDZ2b0p6ZXF4MFpiV2NyUVV0bmFiXzE3NDEwODYzNjk6MTc0MTA4OTk2OV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.gif" alt=""><figcaption></figcaption></figure>
