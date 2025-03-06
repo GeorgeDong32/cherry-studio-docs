@@ -45,8 +45,6 @@ description: 如何在 Cherry Studio 使用联网模式
 > * <mark style="color:green;">智谱AI</mark>
 > * <mark style="color:green;">阿里云百炼等</mark>
 
-
-
 {% hint style="danger" %}
 特别注意：
 
@@ -72,6 +70,10 @@ description: 如何在 Cherry Studio 使用联网模式
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>点击获取秘钥</p></figcaption></figure>
 
 点击获取秘钥后，会自动跳转到**tavily的官网**登录注册页面，注册并登录后，创建APIkey，然后复制key到Cherry Studio即可。
+
+{% hint style="danger" %}
+不会注册，参考本文档同目录下tavily联网登录注册教程。
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>复制key</p></figcaption></figure>
 
