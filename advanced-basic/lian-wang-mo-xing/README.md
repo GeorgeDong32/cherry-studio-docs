@@ -75,6 +75,14 @@ description: 如何在 Cherry Studio 使用联网模式
 不会注册，参考本文档同目录下tavily联网登录注册教程。
 {% endhint %}
 
+**tavily注册参考文档：**
+
+{% content-ref url="tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md" %}
+[tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md](tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
+{% endcontent-ref %}
+
+显示下面的界面表示注册成功。
+
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>复制key</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption><p>粘贴key，大功告成</p></figcaption></figure>
