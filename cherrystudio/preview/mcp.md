@@ -12,7 +12,7 @@ icon: monero
 
 ### **准备工作：安装 uv**
 
-uv 是一个快速的 Python 包管理器，我们需要用它来安装 MCP Server。
+[uv](https://github.com/astral-sh/uv) 是一个快速的 Python 包管理器，我们需要用它来安装 MCP Server。
 
 *   **macOS/Linux 系统：**
 
@@ -31,14 +31,16 @@ uv 是一个快速的 Python 包管理器，我们需要用它来安装 MCP Serv
 
 ### **配置 Cherry Studio**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PixPin_2025-03-10_20-42-38.png" alt=""><figcaption></figcaption></figure>
 
 1. 打开 Cherry Studio 设置。
-2. 找到 "MCP Servers" 选项。
-3. 点击 "Add Server"。
+2. 找到 "MCP 服务器" 选项。
+3. 点击 "添加服务器"。
 4. 将 MCP Server 的相关参数填入（[参考链接](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)）。可能需要填写的内容包括：
-   * Server Name（服务器名称）：自定义一个名称，例如 `fetch-server`
-   * Server URL（服务器地址）：MCP Server 的地址
+   * 名称：自定义一个名称，例如 `fetch-server`
+   * 类型：选择 `STDIO`
+   * 命令：填写 `uvx`
+   * &#x20;参数：填写 `mcp-server-fetch`
    * （可能还有其他参数，视具体 Server 而定）
 5. 点击“确定”保存。
 
