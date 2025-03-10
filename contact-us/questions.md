@@ -34,10 +34,12 @@ icon: address-card
 >
 > a. 修改与衍生： 您对 CherryStudio 材料进行修改或基于其进行衍生开发（包括但不限于修改应用名称、Logo、代码、功能、界面等）。
 >
-> b. 多租户服务（大规模）： 您为企业客户提供基于 CherryStudio 的服务，且该服务支持 10 人以上 累计用户使用。
+> b. 企业服务： 在您的企业内部，或为企业客户提供基于 CherryStudio 的服务，且该服务支持 10 人及以上累计用户使用。
 >
 > c. 硬件捆绑销售： 您将 CherryStudio 预装或集成到硬件设备或产品中进行捆绑销售。
 >
 > d. 政府或教育机构大规模采购： 您的使用场景属于政府或教育机构的大规模采购项目，特别是涉及安全、数据隐私等敏感需求时。
+>
+>
 >
 > 授权许可详情：[https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi](https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi)
