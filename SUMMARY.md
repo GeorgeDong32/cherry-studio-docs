@@ -40,6 +40,8 @@
   * [华为云](pre-basic/providers/huawei.md)
   * [Google Gemini](pre-basic/providers/google-gemini.md)
   * [无问芯穹](pre-basic/providers/wu-wen-xin-qiong.md)
+  * [自定义服务商](pre-basic/providers/zi-ding-yi-fu-wu-shang.md)
+  * [Ollama](pre-basic/providers/ollama.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
