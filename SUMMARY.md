@@ -51,6 +51,8 @@
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
+* [MCP教程](advanced-basic/mcp/README.md)
+  * [MCP介绍（小白版）](advanced-basic/mcp/mcp-jie-shao-xiao-bai-ban.md)
 * [个性化设置](advanced-basic/personalization/README.md)
   * [自定义CSS](advanced-basic/personalization/css.md)
   * [字体推荐](advanced-basic/personalization/font.md)
