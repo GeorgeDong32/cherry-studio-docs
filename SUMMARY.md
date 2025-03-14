@@ -83,7 +83,7 @@
 
 ## 关于 <a href="#about" id="about"></a>
 
-* [隐私协议](about/questions.md)
+* [隐私协议](about/privacypolicy.md)
 
 ## 其他内容 <a href="#other" id="other"></a>
 
