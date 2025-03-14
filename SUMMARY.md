@@ -81,6 +81,10 @@
 * [商务合作](contact-us/questions.md)
   * [CherryStudio 许可协议](contact-us/questions/cherrystudio-xu-ke-xie-yi.md)
 
+## 关于 <a href="#about" id="about"></a>
+
+* [隐私协议](about/questions.md)
+
 ## 其他内容 <a href="#other" id="other"></a>
 
 * [常见模型参考信息](other/models-info.md)
