@@ -57,6 +57,7 @@
   * [自定义CSS](advanced-basic/personalization/css.md)
   * [字体推荐](advanced-basic/personalization/font.md)
   * [修改存储位置](advanced-basic/personalization/xiu-gai-cun-chu-wei-zhi.md)
+  * [清除css设置](advanced-basic/personalization/clear-css.md)
 * [联网模式](advanced-basic/lian-wang-mo-xing/README.md)
   * [DeepSeekR1联网功能-火山引擎接入](advanced-basic/lian-wang-mo-xing/deepseekr1-lian-wang-gong-neng-huo-shan-yin-qing-jie-ru.md)
   * [tavily联网登录注册教程](advanced-basic/lian-wang-mo-xing/tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
