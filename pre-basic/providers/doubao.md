@@ -24,9 +24,12 @@
 
 * 在方舟控制台侧栏最下方的[开通管理](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D\&OpenTokenDrawer=false)开通需要使用的模型，这里可以按需开通豆包系列和DeepSeek等模型。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt="" style="width: 70%;"><figcaption></figcaption></figure>
 
 * 在[模型列表文档](https://www.volcengine.com/docs/82379/1330310#%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90)里，找到所需模型对应的模型ID。
+
+<figure><img src="../../.gitbook/assets/火山引擎_模型ID.png" alt="火山引擎模型ID列表示例" style="width: 50%;"><figcaption></figcaption></figure>
+
 * 打开CherryStudio的[模型服务](../../cherrystudio/preview/settings/providers.md)设置找到火山引擎
 * 点击添加，将之前获得的模型ID复制至 模型ID 文本对话框即可
 
