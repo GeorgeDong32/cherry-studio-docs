@@ -1,5 +1,5 @@
 ---
-icon: address-card
+icon: unlock-keyhole
 ---
 
 # Privacy Policy
