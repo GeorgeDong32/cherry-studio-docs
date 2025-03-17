@@ -1,9 +1,5 @@
 # Cherry Studio License Agreement
 
-Here is your translated CherryStudio License Agreement in English:
-
-***
-
 By using or distributing any part or element of Cherry Studio materials, you acknowledge that you have read, understood, and agreed to the terms of this Agreement, which shall become effective immediately upon such use.
 
 ## 1. Definitions
