@@ -55,4 +55,5 @@
 
 ## Contact Us
 
-* [Business Cooperation](contact-us/business-cooperation.md)
+* [Business Cooperation](contact-us/business-cooperation/README.md)
+  * [Cherry Studio License Agreement](contact-us/business-cooperation/cherry-studio-license-agreement.md)
