@@ -6,7 +6,7 @@ Here is your translated CherryStudio License Agreement in English:
 
 By using or distributing any part or element of Cherry Studio materials, you acknowledge that you have read, understood, and agreed to the terms of this Agreement, which shall become effective immediately upon such use.
 
-1\. Definitions
+## 1. Definitions
 
 This Cherry Studio License Agreement (the “Agreement”) defines the terms and conditions governing the use, reproduction, distribution, and modification of the Materials.
 
@@ -28,7 +28,7 @@ This Cherry Studio License Agreement (the “Agreement”) defines the terms and
 
 • “Modification” refers to any alteration, adaptation, derivative, or secondary development of Materials in Source form, including but not limited to changing application names, logos, code, functions, and interfaces.
 
-2\. Grant of Rights
+## 2. Grant of Rights
 
 Free Commercial Use (without modified code):
 
@@ -38,7 +38,7 @@ Commercial Authorization (when required):
 
 You must obtain express written commercial authorization from us to exercise rights under this Agreement when the conditions stated in Section 3 (“Commercial Authorization”) are met.
 
-3\. Commercial Authorization
+## 3. Commercial Authorization
 
 Under any of the following conditions, you must contact us and obtain explicit written commercial authorization before proceeding with the use of Cherry Studio Materials:
 
@@ -52,7 +52,7 @@ Under any of the following conditions, you must contact us and obtain explicit w
 
 • Public-facing Cloud Services: You provide publicly accessible cloud services based on Cherry Studio.
 
-4\. Redistribution
+## 4. Redistribution
 
 You may distribute unmodified copies of the Materials, or provide them as part of a product or service containing unmodified Materials, in Source or Object form, subject to the following conditions:
 
@@ -62,13 +62,13 @@ You may distribute unmodified copies of the Materials, or provide them as part o
 
 "Cherry Studio is licensed under the Cherry Studio LICENSE AGREEMENT, Copyright (c) Shanghai Qianhui Technology Co., Ltd. All Rights Reserved."
 
-5\. Usage Rules
+## 5. Usage Rules
 
 Materials may be subject to export control or restrictions. You must comply with applicable laws and regulations when using the Materials.
 
 If you use the Materials or their outputs or results to create, train, fine-tune, or improve software or models to be distributed or made available, we encourage prominently marking your relevant product documentation with phrases such as “Built with Cherry Studio” or “Powered by Cherry Studio”.
 
-6\. Intellectual Property Rights
+## 6. Intellectual Property Rights
 
 We retain all intellectual property rights in and to the Materials and derivative works created by or for us. Subject to the terms of this Agreement, ownership of intellectual property rights in modifications and derivative works created by you will be governed by specific commercial authorization agreements. Without obtaining commercial authorization, you shall not acquire ownership rights in modifications and derivative works, and all intellectual property rights remain vested with us.
 
@@ -76,7 +76,7 @@ No license to use our trade names, trademarks, service marks, or product names i
 
 If you institute any legal proceeding against us or any entity (including counterclaims or countersuits), alleging that the Materials or their outputs infringe upon any intellectual property or other rights owned or licensable by you, all licenses granted under this Agreement shall terminate immediately upon initiation of such proceedings.
 
-7\. Disclaimer and Limitation of Liability
+## 7. Disclaimer and Limitation of Liability
 
 We are not obligated to support, update, provide training for, or develop further versions of Cherry Studio Materials, nor to grant any related licenses.
 
@@ -86,13 +86,13 @@ In no event shall we be liable to you for any damages arising from your use or i
 
 You agree to defend, indemnify, and hold us harmless against any third-party claims arising from or related to your use or distribution of the Materials.
 
-8\. Term and Termination
+## 8. Term and Termination
 
 The term of this Agreement begins upon your acceptance or access to the Materials and remains effective until terminated in accordance with its terms.
 
 We may terminate this Agreement upon your breach of any terms or conditions. Upon termination, you must cease using the Materials. Sections 7, 9, and “2. Contributor Agreement” will survive termination.
 
-9\. Governing Law and Jurisdiction
+## 9. Governing Law and Jurisdiction
 
 This Agreement and any disputes arising out of or related to it shall be governed by the laws of the People’s Republic of China.
 
