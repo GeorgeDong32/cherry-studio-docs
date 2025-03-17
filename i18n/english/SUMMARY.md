@@ -57,3 +57,7 @@
 
 * [Business Cooperation](contact-us/business-cooperation.md)
   * [Cherry Studio License Agreement](contact-us/business-cooperation/cherry-studio-license-agreement.md)
+
+## ABOUT
+
+* [Privacy Policy](about/privacy-policy.md)
