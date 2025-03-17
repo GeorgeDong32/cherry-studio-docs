@@ -1,5 +1,5 @@
 ---
-icon: hospital-user
+icon: unlock-keyhole
 ---
 
 # 隐私协议
