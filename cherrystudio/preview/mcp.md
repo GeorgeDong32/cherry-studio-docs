@@ -6,30 +6,27 @@ icon: monero
 
 **MCP(Model Context Protocol)** 是一种开源协议，旨在以标准化的方式向大语言模型（LLM）提供上下文信息。更多关于 MCP 的介绍请见 [#shen-me-shi-mcpmodel-context-protocol](../../question-contact/knowledge.md#shen-me-shi-mcpmodel-context-protocol "mention")
 
-## 在 Cherry Studio 中尝试使用 MCP
+## 在 Cherry Studio 中使用 MCP
 
-目前，MCP 在 Cherry Studio 中还处于测试阶段，但我们可以通过克隆主分支（main）来提前体验！下面以 `fetch` 功能为例，演示如何在 Cherry Studio 中使用 MCP，可以在[文档](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)中查找详情。
+下面以 `fetch` 功能为例，演示如何在 Cherry Studio 中使用 MCP，可以在[文档](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)中查找详情。
 
-### **准备工作：安装 uv**
+### **准备工作：安装 uv、bun**
 
-[uv](https://github.com/astral-sh/uv) 是一个快速的 Python 包管理器，我们需要用它来安装 MCP Server。
+{% hint style="warning" %}
+Cherry Studio 目前只使用内置的 [uv](https://github.com/astral-sh/uv) 和 [bun](https://github.com/oven-sh/bun)，**不会复用**系统中已经安装的 uv 和 bun。
+{% endhint %}
 
-*   **macOS/Linux 系统：**
+在 `设置-MCP服务器` 中，点击 `安装` 按钮，即可自动下载并安装。因为是直接从 GitHub 上下载，速度可能会比较慢，且有较大可能失败。安装成功与否，以下文提到的文件夹内是否有文件为准。
 
-    打开终端，运行以下命令：
+<figure><img src="../../.gitbook/assets/MCP-安装UV-BUN.png" alt=""><figcaption></figcaption></figure>
 
-    ```bash
-    curl -LsSf https://astral.sh/uv/install.sh | sh
-    ```
-*   **Windows 系统：**
+uv 和 bun 会安装在 `C:\Users\用户名\.cherrystudio\bin`（注意 cherrystudio 前面有个小数点） ，如果两个都顺利安装，此时文件夹内应该会有下面三个文件：
 
-    以管理员身份打开 PowerShell，运行以下命令：
+<figure><img src="../../.gitbook/assets/MCP-cherrystudio_bin_文件夹.png" alt=""><figcaption></figcaption></figure>
 
-    ```powershell
-    powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-    ```
+系统中已经安装了的，可以直接将这三个文件复制到这个文件夹（没有这个文件夹则自己新建）中，Cherry Studio 会自动识别。
 
-### **配置 Cherry Studio**&#x20;
+### **配置 MCP 服务器**
 
 <figure><img src="../../.gitbook/assets/PixPin_2025-03-10_20-42-38.png" alt=""><figcaption></figcaption></figure>
 
