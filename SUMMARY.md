@@ -14,7 +14,6 @@
   * [知识库](cherrystudio/preview/knowledge-base.md)
   * [文件](cherrystudio/preview/files.md)
   * [快捷助手](cherrystudio/preview/kuai-jie-zhu-shou.md)
-  * [MCP](cherrystudio/preview/mcp.md)
   * [设置](cherrystudio/preview/settings/README.md)
     * [服务商设置](cherrystudio/preview/settings/providers.md)
     * [默认模型设置](cherrystudio/preview/settings/default-models.md)
@@ -61,6 +60,7 @@
 * [联网模式](advanced-basic/lian-wang-mo-xing/README.md)
   * [DeepSeekR1联网功能-火山引擎接入](advanced-basic/lian-wang-mo-xing/deepseekr1-lian-wang-gong-neng-huo-shan-yin-qing-jie-ru.md)
   * [tavily联网登录注册教程](advanced-basic/lian-wang-mo-xing/tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
+* [MCP 使用教程](advanced-basic/mcp-1.md)
 * [Notion 配置教程](advanced-basic/notion.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
