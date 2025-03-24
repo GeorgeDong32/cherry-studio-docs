@@ -41,6 +41,7 @@
   * [无问芯穹](pre-basic/providers/wu-wen-xin-qiong.md)
   * [自定义服务商](pre-basic/providers/zi-ding-yi-fu-wu-shang.md)
   * [Ollama](pre-basic/providers/ollama.md)
+  * [GitHub Copilot](pre-basic/providers/github-copilot.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
@@ -62,6 +63,7 @@
   * [tavily联网登录注册教程](advanced-basic/lian-wang-mo-xing/tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
 * [MCP 使用教程](advanced-basic/mcp-1.md)
 * [Notion 配置教程](advanced-basic/notion.md)
+* [思源笔记配置教程](advanced-basic/siyuan.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 
