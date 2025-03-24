@@ -1,9 +1,9 @@
 ---
+hidden: true
 icon: book
 ---
 
-
-# 思源笔记 配置教程
+# 思源笔记配置教程
 
 支持将话题、消息导出到思源笔记。
 
@@ -17,10 +17,9 @@ icon: book
 
 打开笔记本打开设置，并复制`笔记本ID`
 
-<figure><img src="../.gitbook/assets/siyuan-image-2.png" width="400"><figcaption><p>打开笔记本设置</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/siyuan-image-2.png" alt="" width="400"><figcaption><p>打开笔记本设置</p></figcaption></figure>
 
-
-<figure><img src="../.gitbook/assets/siyuan-image-3.png" alt="" width=""><figcaption>点击复制笔记本ID按钮</figcaption></figure>
+<figure><img src="../.gitbook/assets/siyuan-image-3.png" alt=""><figcaption><p>点击复制笔记本ID按钮</p></figcaption></figure>
 
 ## 第三步
 
@@ -32,11 +31,10 @@ icon: book
 
 填写思源笔记地址
 
-- **本地**
-    通常为 `http://127.0.0.1:6806`
-
-- **自部署**
-    为你的域名 `http://note.domain.com`
+* **本地**\
+  通常为 `http://127.0.0.1:6806`
+* **自部署**\
+  为你的域名 `http://note.domain.com`
 
 <figure><img src="../.gitbook/assets/siyuan-image-5.png" alt=""><figcaption><p>填入你的思源笔记地址</p></figcaption></figure>
 
@@ -47,7 +45,6 @@ icon: book
 <figure><img src="../.gitbook/assets/siyuan-image-6.png" alt=""><figcaption><p>复制思源笔记令牌</p></figcaption></figure>
 
 填入 Cherry Studio 设置里并检查
-
 
 <figure><img src="../.gitbook/assets/siyuan-image-7.png" alt=""><figcaption><p>填写数据库 ID 并点击检查</p></figcaption></figure>
 
