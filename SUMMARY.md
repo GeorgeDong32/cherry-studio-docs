@@ -42,6 +42,7 @@
   * [自定义服务商](pre-basic/providers/zi-ding-yi-fu-wu-shang.md)
   * [Ollama](pre-basic/providers/ollama.md)
   * [GitHub Copilot](pre-basic/providers/github-copilot.md)
+  * [PPIO 派欧云](pre-basic/providers/ppio.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
