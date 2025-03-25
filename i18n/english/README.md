@@ -10,7 +10,7 @@ icon: cherries
 
 Follow us on social media: [Twitter (X)](https://x.com/CherryStudioAPP?t=DYR0ulaLur-bO4Us3bG79A%5C\&s=05),[Rednote](https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a?xsec_token=YB_1nKvlH4r5hPYVVbbsNHF8Y6n6AKlm5-DaggPCtd2DQ%3D\&xsec_source=app_share\&xhsshare=CopyLink\&appuid=662b6853000000000b031d9a\&apptime=1738627324\&share_id=ace5db41b5954fab8d98a2a7865a62bc\&share_channel=copy_link), [Weibo](https://weibo.com/u/7975656228), [Bilibili](https://space.bilibili.com/3546657515898892?plat_id=1%5C\&share_from=space%5C\&share_medium=android%5C\&share_plat=android%5C\&share_session_id=864e7c2b-5488-4564-9893-9a72f413811e%5C\&share_source=COPY%5C\&share_tag=s_i%5C\&timestamp=1738627360%5C\&unique_k=hIfGgDW), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmw9A54m5J0hHVMQY5eGrVJ-EHDoOS0hgJ6M1F9MN2Tn2V163A0xrC4_KVzfmQSxC?previous_page=app_code_link)
 
-Join our communities: [QQ Group (1025067911)](https://qm.qq.com/q/RIBAO2pPKS), [Telegram](https://t.me/CherryStudioAI), [Discord](https://discord.gg/wez8HtpxqQ), WeChat Group1
+Join our communities: [QQ Group (1025067911)](https://qm.qq.com/q/RIBAO2pPKS), [Telegram](https://t.me/CherryStudioAI), [Discord](https://discord.gg/wez8HtpxqQ), [WeChat Group(Click to view)](#user-content-fn-1)[^1]
 
 ***
 
@@ -123,3 +123,5 @@ CherryStudio is a versatile AI assistant platform integrating multi-model dialog
 ## Follow Our Social Media Accounts
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a?xsec_token=YB_1nKvlH4r5hPYVVbbsNHF8Y6n6AKlm5-DaggPCtd2DQ%3D&#x26;xsec_source=app_share&#x26;xhsshare=CopyLink&#x26;appuid=662b6853000000000b031d9a&#x26;apptime=1738627324&#x26;share_id=ace5db41b5954fab8d98a2a7865a62bc&#x26;share_channel=copy_link">Rednote</a></td><td></td><td><a href=".gitbook/assets/1.png">1.png</a></td></tr><tr><td><a href="https://b23.tv/hIfGgDW">Bilibili</a></td><td></td><td><a href=".gitbook/assets/3.png">3.png</a></td></tr><tr><td><a href="https://weibo.com/u/7975656228">Weibo</a></td><td></td><td><a href=".gitbook/assets/2.png">2.png</a></td></tr><tr><td><a href="https://v.douyin.com/ifTpX4X7">Douyin</a></td><td></td><td><a href=".gitbook/assets/4.png">4.png</a></td></tr><tr><td><a href="https://x.com/CherryStudioAPP?t=DYR0ulaLur-bO4Us3bG79A&#x26;s=05">Twitter (X)</a></td><td></td><td><a href=".gitbook/assets/5.png">5.png</a></td></tr></tbody></table>
+
+[^1]: ![](.gitbook/assets/image.avif)
