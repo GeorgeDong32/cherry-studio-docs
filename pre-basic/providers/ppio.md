@@ -12,7 +12,7 @@ Cherry Studio 现已与 **PPIO 高性能 API 通道** 深度适配——通过�
 
 ### [​](https://ppinfra.com/docs/third-party/cherry-studio-use#1-%E8%BF%9B%E5%85%A5-cherrystudio%EF%BC%8C%E6%B7%BB%E5%8A%A0-%E2%80%9Cppio%E2%80%9D-%E4%BD%9C%E4%B8%BA%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E5%95%86)1. 进入 CherryStudio，添加 “PPIO” 作为模型提供商 <a href="#id-1-e8-bf-9b-e5-85-a5-cherrystudio-ef-bc-8c-e6-b7-bb-e5-8a-a0-e2-80-9cppio-e2-80-9d-e4-bd-9c-e4-b8-ba" id="id-1-e8-bf-9b-e5-85-a5-cherrystudio-ef-bc-8c-e6-b7-bb-e5-8a-a0-e2-80-9cppio-e2-80-9d-e4-bd-9c-e4-b8-ba"></a>
 
-首先前往官网下载 Cherry Studio：[ ](https://cherry-ai.com/download)[https://cherry-ai.com/download](https://cherry-ai.com/download) （如果进不去可以打开下面的百度云链接下载自己需要的版本：[ ](https://pan.baidu.com/s/1EgMxS-pdb4wq1zMdxjHNpw?pwd=mcy2)[https://pan.baidu.com/s/1EgMxS-pdb4wq1zMdxjHNpw?pwd](https://pan.baidu.com/s/1EgMxS-pdb4wq1zMdxjHNpw?pwd) = mcy2 ）
+首先前往官网下载 Cherry Studio：[ ](https://cherry-ai.com/download)[https://cherry-ai.com/download](https://cherry-ai.com/download) （如果进不去可以打开下面的夸克网盘链接下载自己需要的版本：[https://pan.quark.cn/s/c8533a1ec63e#/list/share](https://pan.quark.cn/s/c8533a1ec63e#/list/share)
 
 （1）先点击左下角设置，自定义提供商名称为：`PPIO`，点击“确定”
 
