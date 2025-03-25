@@ -20,6 +20,12 @@ icon: message
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+## 对话框内按钮
+
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-03-25 231758.png" alt=""><figcaption></figcaption></figure>
+
+####
+
 ## 对话设置
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
