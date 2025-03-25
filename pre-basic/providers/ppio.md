@@ -18,7 +18,7 @@ Cherry Studio 现已与 **PPIO 高性能 API 通道** 深度适配——通过�
 
 <figure><img src="https://static.ppinfra.com/docs/image/llm/cherry-studio-setting.png" alt=""><figcaption></figcaption></figure>
 
-（2）前往 [派欧算力云 API 密钥管理 ](https://ppinfra.com/settings/key-management)，点击【用户头像】—【API 密钥管理】进入控制台
+（2）前往 [派欧算力云 API 密钥管理 ](https://ppinfra.com/user/register?invited_by=JYT9GD\&utm_source=github_cherry-studio)，点击【用户头像】—【API 密钥管理】进入控制台
 
 <figure><img src="https://static.ppinfra.com/docs/image/llm/ppinfra-create-api-key-01.png" alt=""><figcaption></figcaption></figure>
 
