@@ -46,29 +46,29 @@
 
 ***
 
-* [联网模式](lian-wang-mo-xing/README.md)
-  * [火山引擎接入联网](lian-wang-mo-xing/deepseekr1-lian-wang-gong-neng-huo-shan-yin-qing-jie-ru.md)
-  * [Tavily 联网登录注册教程](lian-wang-mo-xing/tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
-  * [SearXNG 本地部署与配置](lian-wang-mo-xing/searxng-ben-di-bu-shu-yu-pei-zhi.md)
-* [数据设置](shu-ju-she-zhi/README.md)
-  * [Notion 配置教程](shu-ju-she-zhi/notion.md)
-  * [Obsidian 配置教程](shu-ju-she-zhi/obsidian-pei-zhi-jiao-cheng.md)
-  * [思源笔记配置教程](shu-ju-she-zhi/siyuan.md)
-* [个性化设置](personalization/README.md)
-  * [自定义 CSS](personalization/css.md)
-  * [字体推荐](personalization/font.md)
-  * [修改存储位置](personalization/xiu-gai-cun-chu-wei-zhi.md)
-  * [清除css设置](personalization/clear-css.md)
+* [联网模式](websearch/README.md)
+  * [火山引擎接入联网](websearch/volcengine.md)
+  * [Tavily 联网登录注册教程](websearch/tavily.md)
+  * [SearXNG 本地部署与配置](websearch/searxng.md)
+* [数据设置](data-settings/README.md)
+  * [Notion 配置教程](data-settings/notion.md)
+  * [Obsidian 配置教程](data-settings/obsidian.md)
+  * [思源笔记配置教程](data-settings/siyuan.md)
+* [个性化设置](personalization-settings/README.md)
+  * [自定义 CSS](personalization-settings/css.md)
+  * [字体推荐](personalization-settings/font.md)
+  * [修改存储位置](personalization-settings/storage.md)
+  * [清除css设置](personalization-settings/clear-css.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
 * [知识库教程](knowledge-base/knowledge-base.md)
-* [知识库数据](knowledge-base/zhi-shi-ku-shu-ju.md)
+* [知识库数据](knowledge-base/data.md)
 * [嵌入模型参考信息](knowledge-base/emb-models-info.md)
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
-* [MCP 使用教程](advanced-basic/mcp-1.md)
+* [MCP 使用教程](advanced-basic/mcp.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 

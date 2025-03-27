@@ -21,7 +21,7 @@ Cherry Studio 支持与 Obsidian 联动，将完整对话或单条对话导出�
 
 ## 第二步：配置 Cherry Studio
 
-在 Cherry Studio &#x7684;_&#x8BBE;置_ →  _数据设置_ → _Obsidian 配&#x7F6E;_&#x83DC;单中，输入在[第一步](obsidian-pei-zhi-jiao-cheng.md#di-yi-bu)中获取到的`保管库`名与`文件夹`名：
+在 Cherry Studio &#x7684;_&#x8BBE;置_ →  _数据设置_ → _Obsidian 配&#x7F6E;_&#x83DC;单中，输入在[第一步](obsidian.md#di-yi-bu)中获取到的`保管库`名与`文件夹`名：
 
 <figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ Cherry Studio 支持与 Obsidian 联动，将完整对话或单条对话导出�
 
 此时会弹出一个窗口，用于调整这条导出到 Obsidian 中的对话笔记的 **Properties（属性）**，以及导出到 Obsidian 中的**处理方式**。导出到 Obsidian 中的**处理方式**有以下三种可选：
 
-* **新建（如果存在就覆盖）**：在[第二步](obsidian-pei-zhi-jiao-cheng.md#di-er-bu)中填写的`文件夹` 里新建一篇对话笔记，如果存在同名笔记则会覆盖旧笔记
+* **新建（如果存在就覆盖）**：在[第二步](obsidian.md#di-er-bu)中填写的`文件夹` 里新建一篇对话笔记，如果存在同名笔记则会覆盖旧笔记
 * **前置**：在已存在同名笔记的情况下，将选中的对话内容导出添加到该笔记的开头
 * **追加**：在已存在同名笔记的情况下，将选中的对话内容导出添加到该笔记的末尾
 
@@ -53,7 +53,7 @@ Cherry Studio 支持与 Obsidian 联动，将完整对话或单条对话导出�
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption><p>导出单条对话</p></figcaption></figure>
 
-之后也会弹出与导出完整对话时一样的窗口，要求你配置**笔记属性**与**笔记的处理方式**，一样按照[上方的教程](obsidian-pei-zhi-jiao-cheng.md#dao-chu-wan-zheng-dui-hua)完成即可。
+之后也会弹出与导出完整对话时一样的窗口，要求你配置**笔记属性**与**笔记的处理方式**，一样按照[上方的教程](obsidian.md#dao-chu-wan-zheng-dui-hua)完成即可。
 
 ## 导出成功
 

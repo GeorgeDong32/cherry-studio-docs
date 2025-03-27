@@ -56,4 +56,4 @@ icon: table-columns
 
 ### 自定义css
 
-通过此设置可灵活的对界面做一些个性化的更改和设置。具体方法参考进阶教程中的[个性化设置](../../../personalization/css.md)。
+通过此设置可灵活的对界面做一些个性化的更改和设置。具体方法参考进阶教程中的[个性化设置](../../../personalization-settings/css.md)。
