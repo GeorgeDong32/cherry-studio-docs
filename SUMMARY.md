@@ -44,6 +44,22 @@
   * [GitHub Copilot](pre-basic/providers/github-copilot.md)
   * [PPIO 派欧云](pre-basic/providers/ppio.md)
 
+***
+
+* [联网模式](lian-wang-mo-xing/README.md)
+  * [DeepSeekR1联网功能-火山引擎接入](lian-wang-mo-xing/deepseekr1-lian-wang-gong-neng-huo-shan-yin-qing-jie-ru.md)
+  * [tavily联网登录注册教程](lian-wang-mo-xing/tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
+  * [SearXNG本地部署与配置](lian-wang-mo-xing/searxng-ben-di-bu-shu-yu-pei-zhi.md)
+* [个性化设置](personalization/README.md)
+  * [自定义CSS](personalization/css.md)
+  * [字体推荐](personalization/font.md)
+  * [修改存储位置](personalization/xiu-gai-cun-chu-wei-zhi.md)
+  * [清除css设置](personalization/clear-css.md)
+* [数据设置](shu-ju-she-zhi/README.md)
+  * [Notion 配置教程](shu-ju-she-zhi/notion.md)
+  * [Obsidian 配置教程](shu-ju-she-zhi/obsidian-pei-zhi-jiao-cheng.md)
+  * [思源笔记配置教程](shu-ju-she-zhi/siyuan.md)
+
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
 * [知识库教程](knowledge-base/knowledge-base.md)
@@ -52,21 +68,7 @@
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
-* [MCP教程](advanced-basic/mcp/README.md)
-  * [MCP介绍（小白版）](advanced-basic/mcp/mcp-jie-shao-xiao-bai-ban.md)
-* [个性化设置](advanced-basic/personalization/README.md)
-  * [自定义CSS](advanced-basic/personalization/css.md)
-  * [字体推荐](advanced-basic/personalization/font.md)
-  * [修改存储位置](advanced-basic/personalization/xiu-gai-cun-chu-wei-zhi.md)
-  * [清除css设置](advanced-basic/personalization/clear-css.md)
-* [联网模式](advanced-basic/lian-wang-mo-xing/README.md)
-  * [DeepSeekR1联网功能-火山引擎接入](advanced-basic/lian-wang-mo-xing/deepseekr1-lian-wang-gong-neng-huo-shan-yin-qing-jie-ru.md)
-  * [tavily联网登录注册教程](advanced-basic/lian-wang-mo-xing/tavily-lian-wang-deng-lu-zhu-ce-jiao-cheng.md)
-  * [SearXNG本地部署与配置](advanced-basic/lian-wang-mo-xing/searxng-ben-di-bu-shu-yu-pei-zhi.md)
 * [MCP 使用教程](advanced-basic/mcp-1.md)
-* [Notion 配置教程](advanced-basic/notion.md)
-* [思源笔记配置教程](advanced-basic/siyuan.md)
-* [Obsidian 配置教程](advanced-basic/obsidian-pei-zhi-jiao-cheng.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 

@@ -76,7 +76,7 @@ icon: message
 
 #### <mark style="color:blue;">**`使用衬线字体`**</mark>：
 
-字体样式切换，现在你也可以通过[自定义css](../../advanced-basic/personalization/)来更换字体。
+字体样式切换，现在你也可以通过[自定义css](../../personalization/)来更换字体。
 
 #### <mark style="color:blue;">**`代码显示行号`**</mark>：
 
