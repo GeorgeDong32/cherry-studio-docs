@@ -66,6 +66,7 @@
 * [MCP 使用教程](advanced-basic/mcp-1.md)
 * [Notion 配置教程](advanced-basic/notion.md)
 * [思源笔记配置教程](advanced-basic/siyuan.md)
+* [Obsidian 配置教程](advanced-basic/obsidian-pei-zhi-jiao-cheng.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 
