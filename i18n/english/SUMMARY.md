@@ -45,6 +45,7 @@
   * [Modifying Storage Location](advanced-tutorial/personalization/modifying-storage-location.md)
 * [Networking Models](advanced-tutorial/networking-models.md)
 * [Notion Configuration](advanced-tutorial/notion-configuration.md)
+* [Obsidian Configuration](advanced-tutorial/obsidian-configuration.md)
 
 ## Questions & Feedback
 
