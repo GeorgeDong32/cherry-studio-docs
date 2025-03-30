@@ -51,8 +51,7 @@ UV: [https://github.com/astral-sh/uv/releases](https://github.com/astral-sh/uv/r
 5. 点击“确定”保存。
 
 {% hint style="success" %}
-完成上述配置后，Cherry Studio 会自动下载所需的 MCP Server - `fetch server`。下载完成后，我们就可以开始使用了！
-{% endhint %}
+完成上述配置后，Cherry Studio 会自动下载所需的 MCP Server - `fetch server`。下载完成后，我们就可以开始使用了！注意：当mcp-server-fetch配置不成功的时候，可以尝试重启一下电脑。{% endhint %}
 
 ### 在聊天框中启用 MCP 服务
 
