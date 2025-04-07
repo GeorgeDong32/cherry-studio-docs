@@ -7,15 +7,15 @@ icon: windows
 
 ## 打开官方网站
 
-{% hint style="info" %}
-注意：Window 7系统不支持安装CherryStudio。
+{% hint style="warning" %}
+注意：Windows 7系统不支持安装 Cherry Studio。
 {% endhint %}
 
 
 
 点击下载选择合适的版本
 
-{% embed url="https://cherry-ai.com" %}
+{% embed url="https://cherry-ai.com/download" %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>打开官方网站</p></figcaption></figure>
 
@@ -25,7 +25,7 @@ icon: windows
 
 > 如果出现浏览器提示文件不被信任等情况选择保留即可
 >
-> `选择保留`→ `信任 Cherry-Studio`
+> `选择保留` → `信任 Cherry-Studio`
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

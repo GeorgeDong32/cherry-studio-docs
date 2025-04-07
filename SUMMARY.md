@@ -1,6 +1,6 @@
 # Table of contents
 
-## CherryStudio
+## Cherry Studio
 
 * [项目简介](README.md)
 * [客户端下载](cherrystudio/download.md)
@@ -15,7 +15,7 @@
   * [文件](cherrystudio/preview/files.md)
   * [快捷助手](cherrystudio/preview/kuai-jie-zhu-shou.md)
   * [设置](cherrystudio/preview/settings/README.md)
-    * [服务商设置](cherrystudio/preview/settings/providers.md)
+    * [模型服务设置](cherrystudio/preview/settings/providers.md)
     * [默认模型设置](cherrystudio/preview/settings/default-models.md)
     * [常规设置](cherrystudio/preview/settings/general.md)
     * [显示设置](cherrystudio/preview/settings/display.md)
@@ -26,14 +26,14 @@
 
 * [安装教程](pre-basic/installation/README.md)
   * [Windows](pre-basic/installation/windows.md)
-  * [MacOS](pre-basic/installation/macos.md)
-* [服务商配置](pre-basic/providers/README.md)
+  * [macOS](pre-basic/installation/macos.md)
+* [模型服务配置](pre-basic/providers/README.md)
   * [阿里云百炼](pre-basic/providers/a-li-yun-bai-lian.md)
   * [硅基流动](pre-basic/providers/siliconcloud.md)
   * [OpenAI](pre-basic/providers/openai.md)
   * [QwenLM](pre-basic/providers/qwenlm.md)
   * [字节跳动(豆包)](pre-basic/providers/doubao.md)
-  * [OneAPI及其分支项目](pre-basic/providers/oneapi/README.md)
+  * [OneAPI 及其分支项目](pre-basic/providers/oneapi/README.md)
     * [OneAPI](pre-basic/providers/oneapi/oneapi.md)
     * [NewAPI](pre-basic/providers/oneapi/newapi.md)
   * [华为云](pre-basic/providers/huawei.md)
@@ -58,7 +58,7 @@
   * [自定义 CSS](personalization-settings/css.md)
   * [字体推荐](personalization-settings/font.md)
   * [修改存储位置](personalization-settings/storage.md)
-  * [清除css设置](personalization-settings/clear-css.md)
+  * [清除 CSS 设置](personalization-settings/clear-css.md)
 
 ## 知识库教程 <a href="#knowledge-base" id="knowledge-base"></a>
 
@@ -81,7 +81,7 @@
 * [常见问题](question-contact/questions.md)
 * [如何高效提问](question-contact/ask.md)
 * [知识科普](question-contact/knowledge.md)
-* [反馈&建议](question-contact/suggestions.md)
+* [反馈 & 建议](question-contact/suggestions.md)
 
 ## 联系我们 <a href="#contact-us" id="contact-us"></a>
 
@@ -96,5 +96,5 @@
 
 * [常见模型参考信息](other/models-info.md)
 * [模型榜单](other/model_rank/README.md)
-  * [lmarena.ai排行榜](other/model_rank/lmarena.md)
+  * [lmarena.ai 排行榜](other/model_rank/lmarena.md)
   * [ChatBOT arena](other/model_rank/chatbot-arena.md)
