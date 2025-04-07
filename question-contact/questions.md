@@ -96,8 +96,6 @@ icon: seal-question
 
 2.使用了非嵌入模型
 
-{% include "../.gitbook/includes/zhu-yi-qian-ru-lei-mo-xing-dui-hua-lei-mo-xing-hui-hua-lei-mo-xing-deng-ge-zi-you-ge-zi-de-....md" %}
-
 ***
 
 ## 模型不能识图/无法上传或选择图片

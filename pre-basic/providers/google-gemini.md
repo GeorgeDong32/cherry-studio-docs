@@ -11,7 +11,7 @@
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-* 将生成的 key 复制，并打开 CherryStudio 的 [服务商设置](../../cherrystudio/preview/settings/providers.md)
+* 将生成的 key 复制，并打开 CherryStudio 的 [服务商设置](broken-reference)
 * 找到服务商 Gemini，填入刚刚获取到的 key
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>

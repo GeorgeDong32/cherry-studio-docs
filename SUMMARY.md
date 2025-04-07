@@ -68,7 +68,11 @@
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
-* [MCP 使用教程](advanced-basic/mcp.md)
+* [MCP 使用教程](advanced-basic/mcp/README.md)
+  * [MCP 环境安装](advanced-basic/mcp/install.md)
+  * [配置和使用 MCP](advanced-basic/mcp/config.md)
+  * [自动安装 MCP](advanced-basic/mcp/auto-install.md)
+  * [内置 MCP 配置](advanced-basic/mcp/in-memory.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 

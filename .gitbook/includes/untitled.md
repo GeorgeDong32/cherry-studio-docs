@@ -2,4 +2,4 @@
 title: Untitled
 ---
 
-<figure><img src="../assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://github.com/modelcontextprotocol/servers/tree/main/src/memory" %}

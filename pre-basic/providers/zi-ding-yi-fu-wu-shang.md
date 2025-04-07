@@ -13,7 +13,7 @@ Cherry Studio 不仅集成了主流的 AI 模型服务，还赋予了您强大�
 
 只需简单几步，即可在 Cherry Studio 中添加您的自定义 AI 服务商：
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 1. **打开设置：** 在 Cherry Studio 界面左侧导航栏中，点击“设置”（齿轮图标）。
 2. **进入模型服务：** 在设置页面中，选择“模型服务”选项卡。
@@ -29,7 +29,7 @@ Cherry Studio 不仅集成了主流的 AI 模型服务，还赋予了您强大�
 
 ## 配置自定义 AI 服务商
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 添加完成后，您需要在列表中找到您刚刚添加的服务商，并进行详细配置：
 
