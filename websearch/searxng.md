@@ -2,7 +2,7 @@
 icon: searchengin
 ---
 
-# SearXNG本地部署与配置
+# SearXNG 本地部署与配置
 
 CherryStudio 支持通过 SearXNG 进行网络搜索，SearXNG 是一个可本地部署的开源项目，所以与其他需要 API 提供商的配置方式略有不同。
 
@@ -112,8 +112,8 @@ SearXNG 本地部署成功，接下来是 CherryStudio 的相关配置。
 
 <figure><img src="../../.gitbook/assets/searxng_config_img_21.png" alt=""><figcaption></figcaption></figure>
 
-地址既可以填写本地： [http://localhost](http://localhost) : 端口号\
-也可以填写 docker 地址：[http://host.docker.internal](http://host.docker.internal) : 端口号
+地址既可以填写本地： <http://localhost> : 端口号\
+也可以填写 docker 地址：<http://host.docker.internal> : 端口号
 
 ### 其他配置
 
@@ -134,3 +134,35 @@ SearXNG 本地部署成功，接下来是 CherryStudio 的相关配置。
 <figure><img src="../../.gitbook/assets/searxng_config_img_25.png" alt=""><figcaption></figcaption></figure>
 
 若内容太长直接修改不方便，可将其复制到本地 IDE 中，修改后粘贴到配置文件中即可。
+
+## 验证失败常见原因
+
+### 返回格式未添加 json 格式
+
+在配置文件中将返回格式加上 json
+
+<figure><img src="../../.gitbook/assets/searxng_json_format.png" alt=""><figcaption></figcaption></figure>
+
+### 未正确配置搜索引擎
+
+Cherry Studio 会默认选取 categories 同时包含 web general 的引擎进行搜索，默认情况下会选中 google 等引擎，由于大陆无法直接链接 google 导致失败。增加以下配置使得 searxng 强制使用 baidu 引擎，即可解决问题。
+
+```
+use_default_settings:
+  engines:
+    keep_only:
+      - baidu
+engines:
+  - name: baidu
+    engine: baidu 
+    categories: 
+      - web
+      - general
+    disabled: false
+```
+
+### 访问速率过快
+
+searxng 的 limiter 配置阻碍了 API访问，请尝试将其在设置中设为 false。
+
+<figure><img src="../../.gitbook/assets/searxng_limiter.png" alt=""><figcaption></figcaption></figure>
