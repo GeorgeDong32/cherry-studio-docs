@@ -139,13 +139,13 @@ SearXNG 本地部署成功，接下来是 CherryStudio 的相关配置。
 
 ### 返回格式未添加 json 格式
 
-在配置文件中将返回格式加上 json
+在配置文件中将返回格式加上 json：
 
 <figure><img src="../../.gitbook/assets/searxng_json_format.png" alt=""><figcaption></figcaption></figure>
 
 ### 未正确配置搜索引擎
 
-Cherry Studio 会默认选取 categories 同时包含 web general 的引擎进行搜索，默认情况下会选中 google 等引擎，由于大陆无法直接链接 google 导致失败。增加以下配置使得 searxng 强制使用 baidu 引擎，即可解决问题。
+Cherry Studio 会默认选取 categories 同时包含 web general 的引擎进行搜索，默认情况下会选中 google 等引擎，由于大陆无法直接访问 google 等网站导致失败。增加以下配置使得 searxng 强制使用 baidu 引擎，即可解决问题：
 
 ```
 use_default_settings:
@@ -163,6 +163,6 @@ engines:
 
 ### 访问速率过快
 
-searxng 的 limiter 配置阻碍了 API访问，请尝试将其在设置中设为 false。
+searxng 的 limiter 配置阻碍了 API 访问，请尝试将其在设置中设为 false：
 
 <figure><img src="../../.gitbook/assets/searxng_limiter.png" alt=""><figcaption></figcaption></figure>
