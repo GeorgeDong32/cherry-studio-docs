@@ -10,6 +10,8 @@ icon: address-card
 
 📱：18954281942 (非客服电话)
 
+<div align="left"><figure><img src="../.gitbook/assets/6f5735eec7f416a03d38ea34329872ac.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
 {% hint style="warning" %}
 使用问题咨询，可以在官网首页底部加入我们的用户交流群，也可邮件 support@cherry-ai.com
 
