@@ -22,4 +22,4 @@ icon: address-card
 
 
 
-> 授权许可详情：[https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi](https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi)
+> 商用授权详情：[https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi](https://docs.cherry-ai.com/contact-us/questions/cherrystudio-xu-ke-xie-yi)
