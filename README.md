@@ -10,7 +10,7 @@ icon: cherries
 关注我们的社交账号：[推特(X)](https://x.com/CherryStudioAPP)、[小红书](https://www.xiaohongshu.com/user/profile/662b6853000000000b031d9a)、[微博](https://weibo.com/u/7975656228)、[哔哩哔哩](https://space.bilibili.com/3546657515898892)、[抖音](https://www.douyin.com/user/MS4wLjABAAAAmw9A54m5J0hHVMQY5eGrVJ-EHDoOS0hgJ6M1F9MN2Tn2V163A0xrC4_KVzfmQSxC)
 
 
-加入我们的社群：[QQ群（472019156）](https://qm.qq.com/q/CbZiBWwCXu)、[Telegram](https://t.me/CherryStudioAI)、[Discord](https://discord.gg/wez8HtpxqQ)、微信群(点击查看)[^1]
+加入我们的社群：[QQ群（472019156）](https://qm.qq.com/q/CbZiBWwCXu)、[Telegram](https://t.me/CherryStudioAI)、[Discord](https://discord.gg/wez8HtpxqQ)、微信群（点击查看）[^1]
 
 ***
 
@@ -23,7 +23,7 @@ Cherry Studio 高度自定义的设计、强大的扩展能力和友好的用户
 
 #### **1. 基础对话功能**
 
-* **一问多答**：支持同一问题通过多个模型同时生成回复，方便用户对比不同模型的表现。
+* **一问多答**：支持同一问题通过多个模型同时生成回复，方便用户对比不同模型的表现，详见 [对话界面](./cherrystudio/preview/chat.md)。
 
 <figure><img src=".gitbook/assets/docs-readme-1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -117,9 +117,9 @@ Cherry Studio 高度自定义的设计、强大的扩展能力和友好的用户
 * **翻译与办公自动化**：内置翻译助手和文件处理功能，适合需要跨语言交流或文档处理的用户。
 * **AI 绘画与设计**：通过自然语言描述生成图像，满足创意设计需求。
 
-### StarHistory
+### Star History
 
-![图片](https://urlscan.io/liveshot/?width=1300\&height=620\&url=https://cherrystarhistory.ocool.online/)
+![Star History](https://urlscan.io/liveshot/?width=1300\&height=620\&url=https://cherrystarhistory.ocool.online/)
 
 ## 关注我们的社交账号
 
