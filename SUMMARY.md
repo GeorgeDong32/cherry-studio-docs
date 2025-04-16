@@ -21,6 +21,7 @@
     * [显示设置](cherrystudio/preview/settings/display.md)
     * [快捷键设置](cherrystudio/preview/settings/key-shortcut.md)
     * [数据设置](cherrystudio/preview/settings/data.md)
+    * [语音功能](cherry-studio/preview/settings/yu-yin-gong-neng.md)
 
 ## 基础教程 <a href="#pre-basic" id="pre-basic"></a>
 
@@ -47,6 +48,7 @@
 ***
 
 * [联网模式](websearch/README.md)
+  * [免费联网模式](websearch/mian-fei-lian-wang-mo-shi.md)
   * [网络搜索黑名单配置](websearch/blacklist.md)
   * [火山引擎接入联网](websearch/volcengine.md)
   * [Tavily 联网登录注册教程](websearch/tavily.md)
