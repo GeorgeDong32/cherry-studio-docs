@@ -1,6 +1,6 @@
 # 添加 ModelScope MCP 服务器
 
-在 v1.2.9 版本中，Cherry Studio 与ModelScope（魔塔） 达成官方合作，大幅简化了 MCP 服务器添加的操作步骤，避免配置过程出错，而且可以在 ModelScope 社区发现海量 MCP 服务器。接下来更随操作步骤，一起看下如果在 Cherry Studio 中同步 ModelScope 的 MCP 服务器。
+在 v1.2.9 版本中，Cherry Studio 与ModelScope 魔搭 达成官方合作，大幅简化了 MCP 服务器添加的操作步骤，避免配置过程出错，而且可以在 ModelScope 社区发现海量 MCP 服务器。接下来更随操作步骤，一起看下如果在 Cherry Studio 中同步 ModelScope 的 MCP 服务器。
 
 ## 操作步骤
 
