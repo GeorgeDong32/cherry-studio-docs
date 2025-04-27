@@ -77,6 +77,7 @@
   * [自动安装 MCP](advanced-basic/mcp/auto-install.md)
   * [内置 MCP 配置](advanced-basic/mcp/in-memory.md)
   * [配置Dify知识库](advanced-basic/mcp/dify.md)
+  * [添加 ModelScope MCP 服务器](advanced-basic/mcp/tian-jia-modelscope-mcp-fu-wu-qi.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 

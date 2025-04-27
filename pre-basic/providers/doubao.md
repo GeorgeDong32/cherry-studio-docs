@@ -14,11 +14,11 @@
 
 * 创建成功后，点击创建好的API Key后的小眼睛打开并复制
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 将复制的API Key填入到CherryStudio当中后，打开服务商开关。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 开通并添加模型
 

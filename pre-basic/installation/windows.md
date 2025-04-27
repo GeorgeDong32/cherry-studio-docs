@@ -11,8 +11,6 @@ icon: windows
 注意：Windows 7系统不支持安装 Cherry Studio。
 {% endhint %}
 
-
-
 点击下载选择合适的版本
 
 {% embed url="https://cherry-ai.com/download" %}
@@ -35,5 +33,4 @@ icon: windows
 
 ## 安装
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>软件安装界面</p></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>软件安装界面</p></figcaption></figure>
