@@ -76,6 +76,7 @@
   * [配置和使用 MCP](advanced-basic/mcp/config.md)
   * [自动安装 MCP](advanced-basic/mcp/auto-install.md)
   * [内置 MCP 配置](advanced-basic/mcp/in-memory.md)
+  * [配置Dify知识库](advanced-basic/mcp/dify.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 
