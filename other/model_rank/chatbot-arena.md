@@ -76,7 +76,7 @@ description: 目前公认的最权威的LLM全面评测榜单，人工盲评
 | 61       | 43               | claude-3-opus-20240229                | 1247   | +2/-2       | 202,698   | Anthropic                | Proprietary               |
 | 63       | 48               | gpt-4-0125-preview                    | 1245   | +2/-2       | 97,064    | OpenAI                   | Proprietary               |
 | 63       | 67               | amazon-nova-pro-v1.0                  | 1244   | +3/-3       | 24,768    | Amazon                   | Proprietary               |
-| 69       | 46               | claude-3-5-haiku-20241022             | 1237   | +3/-3       | 34,282    | Anthropic                | Propretary                |
+| 69       | 46               | claude-3-5-haiku-20241022             | 1237   | +3/-3       | 34,282    | Anthropic                | Proprietary               |
 | 69       | 67               | reka-core-20240904                    | 1235   | +5/-5       | 7,941     | Reka AI                  | Proprietary               |
 | 72       | 68               | gemini-1.5-flash-001                  | 1227   | +2/-3       | 65,656    | Google                   | Proprietary               |
 | 72       | 77               | jamba-1.5-large                       | 1222   | +6/-6       | 9,122     | AI21 Labs                | Jamba Open                |
