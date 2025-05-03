@@ -7,7 +7,7 @@
 <figure><img src="../../.gitbook/assets/CleanShot 2025-04-27 at 10.36.29@2x.jpg" alt=""><figcaption></figcaption></figure>
 
 1. 打开 `搜索MCP`。
-2. 添加 `dify-knoledge` 服务器。
+2. 添加 `dify-knowledge` 服务器。
 
 ### 配置 Dify 知识库
 
