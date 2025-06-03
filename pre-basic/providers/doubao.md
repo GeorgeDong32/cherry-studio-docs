@@ -47,7 +47,7 @@ API地址有两种写法
 {% hint style="info" %}
 两种写法没什么区别，保持默认即可，无需修改。
 
-关于 `/` 和 `#` 结尾的区别参考文档服务商设置的 API 地址部分，[点击前往](../../cherrystudio/preview/settings/providers#api-di-zhi)
+关于 `/` 和 `#` 结尾的区别参考文档服务商设置的 API 地址部分，[点击前往](../../cherrystudio/preview/settings/providers.md#api-di-zhi)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>官方文档cURL示例</p></figcaption></figure>
