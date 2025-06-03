@@ -16,9 +16,7 @@ icon: face-viewfinder
 
 ### 配置知识库文档预处理
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 11.55.13@2x.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 11.55.58@2x.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 20.01.03@2x.jpg" alt=""><figcaption></figcaption></figure>
 
 在创建好的知识库中进行如上配置，即可完成知识库文档预处理配置。
 
