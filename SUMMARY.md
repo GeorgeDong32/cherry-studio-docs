@@ -68,7 +68,7 @@
 * [知识库教程](knowledge-base/knowledge-base.md)
 * [知识库数据](knowledge-base/data.md)
 * [嵌入模型参考信息](knowledge-base/emb-models-info.md)
-* [知识库OCR](knowledge-base/zhi-shi-ku-ocr.md)
+* [知识库文档预处理](knowledge-base/zhi-shi-ku-wen-dang-yu-chu-li.md)
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 

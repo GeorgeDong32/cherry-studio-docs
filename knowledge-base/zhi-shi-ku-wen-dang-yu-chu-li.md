@@ -2,9 +2,9 @@
 icon: face-viewfinder
 ---
 
-# 知识库OCR
+# 知识库文档预处理
 
-知识库 OCR 需要将 Cherry Studio 升级至 v1.5.0 或更高版本。
+知识库文档预处理 需要将 Cherry Studio 升级至 v1.5.0 或更高版本。
 
 ### 配置OCR服务商
 
@@ -14,13 +14,13 @@ icon: face-viewfinder
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 11.51.55@2x.jpg" alt=""><figcaption></figcaption></figure>
 
-### 配置知识库OCR
+### 配置知识库文档预处理
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 11.55.13@2x.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-06-03 at 11.55.58@2x.jpg" alt=""><figcaption></figcaption></figure>
 
-在创建好的知识库中进行如上配置，即可完成OCR的知识库配置。
+在创建好的知识库中进行如上配置，即可完成知识库文档预处理配置。
 
 ### 上传文档
 
