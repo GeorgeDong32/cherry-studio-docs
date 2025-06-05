@@ -134,9 +134,9 @@ def update_leaderboard_data():
 
 > **数据更新时间**: {update_time_utc} / {update_time_cst}
 
-{% hint style="info" %}
+{{% hint style="info" %}}
 点击排行榜中的 **模型名称** 可跳转至其详细信息或试用页面。
-{% endhint %}
+{{% endhint %}}
 
 ## 排行榜
 
