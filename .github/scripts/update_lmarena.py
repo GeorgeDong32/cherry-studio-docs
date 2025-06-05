@@ -156,7 +156,7 @@ def update_leaderboard_data():
 
 ## 数据来源与更新频率
 
-本排行榜数据由 [fboulnois/llm-leaderboard-csv](https://github.com/fboulnois/llm-leaderboard-csv) 项目自动生成并提供，该项目从 [lmarena.ai](https://lmarena.ai/) 获取并处理数据。此排行榜由 GitHub Actions 自动更新。
+本排行榜数据由 [fboulnois/llm-leaderboard-csv](https://github.com/fboulnois/llm-leaderboard-csv) 项目自动生成并提供，该项目从 [lmarena.ai](https://lmarena.ai/) 获取并处理数据。此排行榜由 GitHub Actions 每天自动更新。
 
 ## 免责声明
 
