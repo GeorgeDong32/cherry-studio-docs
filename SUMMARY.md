@@ -68,6 +68,7 @@
 * [知识库教程](knowledge-base/knowledge-base.md)
 * [知识库数据](knowledge-base/data.md)
 * [嵌入模型参考信息](knowledge-base/emb-models-info.md)
+* [知识库文档预处理](knowledge-base/zhi-shi-ku-wen-dang-yu-chu-li.md)
 
 ## 进阶教程 <a href="#advanced-basic" id="advanced-basic"></a>
 
@@ -78,6 +79,7 @@
   * [内置 MCP 配置](advanced-basic/mcp/in-memory.md)
   * [配置 Dify 知识库](advanced-basic/mcp/dify.md)
   * [添加 ModelScope MCP 服务器](advanced-basic/mcp/tian-jia-modelscope-mcp-fu-wu-qi.md)
+  * [常见问题](advanced-basic/mcp/chang-jian-wen-ti.md)
 
 ## 项目贡献 <a href="#contribution" id="contribution"></a>
 
