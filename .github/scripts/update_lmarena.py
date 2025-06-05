@@ -98,8 +98,8 @@ def update_leaderboard_data():
         ]
         
         # --- 时间处理 ---
-        # 获取当前 UTC 时间
-        utc_time = datetime.utcnow()
+        # 获取当前 UTC 时间 
+        utc_time = datetime.now(timezone.utc)
         # 定义北京时间时区 (GMT+8)
         cst_timezone = timezone(timedelta(hours=8))
         # 将 UTC 时间转换为北京时间

@@ -1,9 +1,10 @@
 name: Update LM Arena Leaderboard
 
 on:
-  # 定时任务：每隔6小时运行一次 (UTC时间)
+  # 定时任务：每天 UTC 时间 11:30 AM 运行一次
+  # (对应北京时间为每天 19:30)
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '30 11 * * *'
   
   # 允许手动触发此工作流
   workflow_dispatch:
@@ -19,7 +20,7 @@ jobs:
       - name: Set up Python # 设置 Python 环境
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9' # 指定 Python 版本，可根据需要调整
+          python-version: 'latest' # 自动使用最新版本的 Python
 
       - name: Install dependencies # 安装必要的 Python 库
         run: |
