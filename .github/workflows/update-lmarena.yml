@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Leaderboard Update Script # 运行 Python 脚本
         id: run_script # 给这个步骤一个ID，以便后续步骤引用它的输出
-        run: python ./scripts/update_lmarena.py
+        run: python .github/scripts/update_lmarena.py
         # 如果脚本成功更新了文件（返回0），则后续步骤继续
         # 如果脚本没有更新文件或出错（返回非0），则此步骤失败，后续步骤可能不会运行
 
