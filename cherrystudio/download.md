@@ -4,6 +4,10 @@ icon: download
 
 # 客户端下载
 
+{% hint style="info" %}
+当前最新正式版：v1.4.1
+{% endhint %}
+
 ## 直链下载
 
 ### Windows 版本
